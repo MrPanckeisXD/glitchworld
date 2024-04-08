@@ -1,0 +1,1253 @@
+[16:56:15] [main/INFO] [cpw.mods.modlauncher.Launcher]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.21, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[16:56:15] [main/INFO] [cpw.mods.modlauncher.Launcher]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.2 by Microsoft; OS Linux arch amd64 version 6.2.0-1019-azure
+[16:56:16] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler]: ImmediateWindowProvider not loading because launch target is forgeserver
+[16:56:16] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/codespaces-jupyter/Minecraft-server/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23111!/ Service=ModLauncher Env=SERVER
+[16:56:16] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator]: Found 2 dependencies adding them to mods collection
+[16:56:17] [main/INFO] [mixin]: Compatibility level set to JAVA_17
+[16:56:18] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler]: Launching target 'forgeserver' with arguments [nogui]
+[16:56:25] [modloading-worker-0/INFO] [com.mohistmc.MohistMC]: Mohist mod loading.....
+[16:56:25] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod]: Forge mod loading, version 47.2.21, for MC 1.20.1 with MCP 20230612.114412
+[16:56:25] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge]: MinecraftForge v47.2.21 Initialized
+[16:56:25] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge]: NeoForge v47.2.21 Initialized
+[16:56:25] [modloading-worker-0/INFO] [com.mohistmc.MohistMC]: EventDispatcherRegistry initialized
+[16:56:26] [modloading-worker-0/INFO] [voicechat]: [voicechat] Compatibility version 18
+[16:56:26] [modloading-worker-0/INFO] [voicechat]: [voicechat] Loading plugins
+[16:56:26] [modloading-worker-0/INFO] [voicechat]: [voicechat] Loaded 0 plugin(s)
+[16:56:26] [modloading-worker-0/INFO] [voicechat]: [voicechat] Initializing plugins
+[16:56:26] [modloading-worker-0/INFO] [voicechat]: [voicechat] Initialized 0 plugin(s)
+[16:56:26] [modloading-worker-0/INFO] [com.choicetheorem.imst.imst]: Got IMC []
+[16:56:28] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:56:30] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs]: Adding datapack listener capsid_recipes
+[16:56:31] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Loaded 7 recipes
+[16:56:31] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 1396 advancements
+[16:56:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.20.1
+[16:56:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[16:56:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[16:56:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Generating keypair
+[16:56:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[16:56:32] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener]: Using epoll channel type
+[16:56:32] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:56:32] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[16:56:32] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:56:32] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:56:32] [Server thread/INFO] [Minecraft]: This server is running Mohist version 1.20.1-639 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT, Forge version 47.2.21, NeoForge version 47.1.79)
+[16:56:32] [Server thread/INFO] [Minecraft]: Debug logging is enabled
+[16:56:32] [Server thread/INFO] []: Server Ping Player Sample Count: 20
+[16:56:32] [Server thread/INFO] [Minecraft]: Using 4 threads for Netty based IO
+[16:56:36] [Server thread/INFO] [com.mohistmc.MohistMC]: [WolfyUtilities] Loading 3 libraries... please wait
+[16:56:36] [Server thread/INFO] [com.mohistmc.MohistMC]: [WolfyUtilities] Loading -1 extra libraries... please wait
+[16:56:36] [Server thread/INFO] [com.mohistmc.MohistMC]: [WolfyUtilities] Found libraries libraries/plugins-lib/com/google/inject/guice/5.1.0/guice-5.1.0.jar
+[16:56:36] [Server thread/INFO] [com.mohistmc.MohistMC]: [WolfyUtilities] Found libraries libraries/plugins-lib/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar
+[16:56:36] [Server thread/INFO] [com.mohistmc.MohistMC]: [WolfyUtilities] Loaded libraries libraries/plugins-lib/com/google/inject/guice/5.1.0/guice-5.1.0.jar
+[16:56:36] [Server thread/INFO] [com.mohistmc.MohistMC]: [WolfyUtilities] Loaded libraries libraries/plugins-lib/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar
+[16:56:37] [Server thread/INFO] [com.wolfyscript.utilities.bukkit.WolfyCoreBukkit]: [WolfyUtilities] NMS Version: v1_20_R1
+[16:56:38] [Server thread/INFO] [me.wolfyscript.lib.org.reflections.Reflections]: Reflections took 457 ms to scan 1 urls, producing 915 keys and 3672 values
+[16:56:38] [Server thread/INFO] [com.wolfyscript.utilities.bukkit.WolfyCoreBukkit]: [WolfyUtilities] Register Default StackIdentifiers
+[16:56:38] [Server thread/WARN] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] Paper not detected! Not using performance improvements.
+[16:56:38] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] NMS Version: v1_20_R1
+[16:56:39] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin]: [WorldEdit] Loading WorldEdit v7.2.20+6667-f0f1e66
+[16:56:40] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5292ea4c]
+[16:56:40] [Server thread/INFO] [net.skinsrestorer.bukkit.SRBukkitBootstrap]: [SkinsRestorer] Loading SkinsRestorer v15.0.8
+[16:56:40] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin]: [WorldGuard] Loading WorldGuard v7.0.9+5934e49
+[16:56:40] [Server thread/INFO] [tech.sebazcrc.permadeath.Main]: [Permadeath] Loading Permadeath v1.3
+[16:56:40] [Server thread/INFO] [com.nisovin.shopkeepers.SKShopkeepersPlugin]: [Shopkeepers] Loading Shopkeepers v2.19.0
+[16:56:41] [Server thread/INFO] [com.nisovin.shopkeepers.SKShopkeepersPlugin]: [Shopkeepers] Loaded all plugin classes (714 ms).
+[16:56:41] [Server thread/INFO] [com.nisovin.shopkeepers.SKShopkeepersPlugin]: [Shopkeepers] Loading config.
+[16:56:41] [Server thread/WARN] [com.nisovin.shopkeepers.SKShopkeepersPlugin]: [Shopkeepers] Config: Forcefully enabled 'disable-inventory-verification' to resolve a known incompatibility with Mohist servers.
+[16:56:41] [Server thread/INFO] [com.nisovin.shopkeepers.SKShopkeepersPlugin]: [Shopkeepers] Loading language file: language-en-default.yml
+[16:56:41] [Server thread/INFO] [com.nisovin.shopkeepers.SKShopkeepersPlugin]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
+[16:56:41] [Server thread/INFO] [com.nisovin.shopkeepers.SKShopkeepersPlugin]: [Shopkeepers] Registering defaults.
+[16:56:41] [Server thread/INFO] [com.wolfyscript.utilities.bukkit.WolfyCoreBukkit]: [WolfyUtilities] Loading WolfyUtilities v4.16.15.1
+[16:56:41] [Server thread/INFO] [com.wolfyscript.utilities.bukkit.WolfyCoreBukkit]: [WolfyUtilities] Register JSON de-/serializers
+[16:56:41] [Server thread/INFO] [com.wolfyscript.utilities.bukkit.WolfyCoreBukkit]: [WolfyUtilities] Register JSON Operators
+[16:56:41] [Server thread/INFO] [com.wolfyscript.utilities.bukkit.WolfyCoreBukkit]: [WolfyUtilities] Register JSON Value Providers
+[16:56:41] [Server thread/INFO] [com.wolfyscript.utilities.bukkit.WolfyCoreBukkit]: [WolfyUtilities] Register CustomItem NBT Checks
+[16:56:41] [Server thread/INFO] [com.wolfyscript.utilities.bukkit.WolfyCoreBukkit]: [WolfyUtilities] Register CustomItem Actions
+[16:56:41] [Server thread/INFO] [com.wolfyscript.utilities.bukkit.WolfyCoreBukkit]: [WolfyUtilities] Register CustomItem Events
+[16:56:41] [Server thread/INFO] [com.wolfyscript.utilities.bukkit.WolfyCoreBukkit]: [WolfyUtilities] Register Particle Animators
+[16:56:41] [Server thread/INFO] [com.wolfyscript.utilities.bukkit.WolfyCoreBukkit]: [WolfyUtilities] Register Particle Shapes
+[16:56:41] [Server thread/INFO] [com.wolfyscript.utilities.bukkit.WolfyCoreBukkit]: [WolfyUtilities] Register Particle Timers
+[16:56:41] [Server thread/INFO] [com.wolfyscript.utilities.bukkit.WolfyCoreBukkit]: [WolfyUtilities] Register Custom Block Data
+[16:56:41] [Server thread/INFO] [com.wolfyscript.utilities.bukkit.WolfyCoreBukkit]: [WolfyUtilities] Register Custom Player Data
+[16:56:41] [Server thread/INFO] [com.wolfyscript.utilities.bukkit.WolfyCoreBukkit]: [WolfyUtilities] Register NBT Query Nodes
+[16:56:41] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] Loading CustomCrafting v4.16.9.1
+[16:56:41] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] WolfyUtils API: v4.16.15.1
+[16:56:41] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] CustomCrafting: v4.16.9.1
+[16:56:41] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] Environment   : PROD
+[16:56:41] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] Registering CustomItem Data
+[16:56:41] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] Registering Custom Block Data
+[16:56:41] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] Registering Result Extensions
+[16:56:41] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] Registering Result Merge Adapters
+[16:56:41] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] Registering Recipe Conditions
+[16:56:41] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] Registering Recipe Types
+[16:56:41] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] Registering Anvil Recipe Tasks
+[16:56:41] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] Registering Type Registries
+[16:56:41] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin]: [WorldEdit] Enabling WorldEdit v7.2.20+6667-f0f1e66
+[16:56:41] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[16:56:42] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager]: WEPIF: Using the Bukkit Permissions API.
+[16:56:44] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R1.PaperweightAdapter as the Bukkit adapter
+[16:56:45] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin]: [WorldEdit] ====================================================
+[16:56:45] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin]: [WorldEdit]  WorldEdit works better if you use Paper 
+[16:56:45] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin]: [WorldEdit]  as your server software. 
+[16:56:45] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin]: [WorldEdit]   
+[16:56:45] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin]: [WorldEdit]  Paper offers significant performance improvements,
+[16:56:45] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin]: [WorldEdit]  bug fixes, security enhancements and optional
+[16:56:45] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin]: [WorldEdit]  features for server owners to enhance their server.
+[16:56:45] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin]: [WorldEdit]   
+[16:56:45] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[16:56:45] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin]: [WorldEdit]  better at diagnosing lag problems over v1.
+[16:56:45] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin]: [WorldEdit]   
+[16:56:45] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin]: [WorldEdit]  All of your plugins should still work, and the
+[16:56:45] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[16:56:45] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin]: [WorldEdit]   
+[16:56:45] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[16:56:45] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin]: [WorldEdit] ====================================================
+[16:56:45] [Server thread/INFO] [net.skinsrestorer.bukkit.SRBukkitBootstrap]: [SkinsRestorer] Enabling SkinsRestorer v15.0.8
+[16:56:47] [Server thread/INFO] [Console]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.20.1[32;1m.[0;39m
+[16:56:47] [Server thread/INFO] [tech.sebazcrc.permadeath.Main]: [Permadeath] Enabling Permadeath v1.3
+[16:56:47] [Server thread/INFO] [com.wolfyscript.utilities.bukkit.WolfyCoreBukkit]: [WolfyUtilities] Enabling WolfyUtilities v4.16.15.1
+[16:56:47] [Server thread/INFO] [com.wolfyscript.utilities.bukkit.WolfyCoreBukkit]: [WolfyUtilities] Minecraft version: 1.20.1
+[16:56:47] [Server thread/INFO] [com.wolfyscript.utilities.bukkit.WolfyCoreBukkit]: [WolfyUtilities] WolfyUtils version: 4.16.15.1
+[16:56:47] [Server thread/INFO] [com.wolfyscript.utilities.bukkit.WolfyCoreBukkit]: [WolfyUtilities] Environment: PROD
+[16:56:47] [Server thread/INFO] [com.wolfyscript.utilities.bukkit.WolfyCoreBukkit]: [WolfyUtilities] Loading Plugin integrations: 
+[16:56:47] [Server thread/INFO] [com.wolfyscript.utilities.bukkit.WolfyCoreBukkit]: [WolfyUtilities]  - No integrations found
+[16:56:47] [Server thread/INFO] [com.wolfyscript.utilities.bukkit.WolfyCoreBukkit]: [WolfyUtilities] Register API references
+[16:56:47] [Server thread/INFO] [com.wolfyscript.utilities.bukkit.WolfyCoreBukkit]: [WolfyUtilities] Loading stored Custom Items
+[16:56:47] [Server thread/INFO] [com.wolfyscript.utilities.bukkit.WolfyCoreBukkit]: [WolfyUtilities] Loading Creative Mode Tabs
+[16:56:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[16:56:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension minecraft:overworld
+[16:56:53] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[16:56:53] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[16:56:53] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[16:56:54] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[16:56:54] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[16:56:55] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 2%
+[16:56:55] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 7%
+[16:56:56] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 12%
+[16:56:56] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 13%
+[16:56:57] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 32%
+[16:56:57] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 4883 ms
+[16:56:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension minecraft:the_nether
+[16:56:58] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[16:56:58] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[16:56:58] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[16:56:59] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 3%
+[16:56:59] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 4%
+[16:57:00] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 87%
+[16:57:00] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 2556 ms
+[16:57:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension minecraft:the_end
+[16:57:00] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[16:57:00] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[16:57:01] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[16:57:01] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[16:57:02] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 1986 ms
+[16:57:02] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin]: [WorldGuard] Enabling WorldGuard v7.0.9+5934e49
+[16:57:02] [Server thread/INFO] [com.sk89q.worldguard.config.WorldConfiguration]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[16:57:02] [Server thread/INFO] [com.sk89q.worldguard.config.WorldConfiguration]: [WorldGuard] (world) Lighters are PERMITTED.
+[16:57:02] [Server thread/INFO] [com.sk89q.worldguard.config.WorldConfiguration]: [WorldGuard] (world) Lava fire is PERMITTED.
+[16:57:02] [Server thread/INFO] [com.sk89q.worldguard.config.WorldConfiguration]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[16:57:02] [Server thread/INFO] [com.sk89q.worldguard.config.WorldConfiguration]: [WorldGuard] Loaded configuration for world 'world'
+[16:57:02] [Server thread/INFO] [com.sk89q.worldguard.config.WorldConfiguration]: [WorldGuard] (DIM-1) TNT ignition is PERMITTED.
+[16:57:02] [Server thread/INFO] [com.sk89q.worldguard.config.WorldConfiguration]: [WorldGuard] (DIM-1) Lighters are PERMITTED.
+[16:57:02] [Server thread/INFO] [com.sk89q.worldguard.config.WorldConfiguration]: [WorldGuard] (DIM-1) Lava fire is PERMITTED.
+[16:57:02] [Server thread/INFO] [com.sk89q.worldguard.config.WorldConfiguration]: [WorldGuard] (DIM-1) Fire spread is UNRESTRICTED.
+[16:57:02] [Server thread/INFO] [com.sk89q.worldguard.config.WorldConfiguration]: [WorldGuard] Loaded configuration for world 'DIM-1'
+[16:57:02] [Server thread/INFO] [com.sk89q.worldguard.config.WorldConfiguration]: [WorldGuard] (DIM1) TNT ignition is PERMITTED.
+[16:57:02] [Server thread/INFO] [com.sk89q.worldguard.config.WorldConfiguration]: [WorldGuard] (DIM1) Lighters are PERMITTED.
+[16:57:02] [Server thread/INFO] [com.sk89q.worldguard.config.WorldConfiguration]: [WorldGuard] (DIM1) Lava fire is PERMITTED.
+[16:57:02] [Server thread/INFO] [com.sk89q.worldguard.config.WorldConfiguration]: [WorldGuard] (DIM1) Fire spread is UNRESTRICTED.
+[16:57:02] [Server thread/INFO] [com.sk89q.worldguard.config.WorldConfiguration]: [WorldGuard] Loaded configuration for world 'DIM1'
+[16:57:02] [Server thread/INFO] [com.sk89q.worldguard.WorldGuard]: [WorldGuard] Loading region data...
+[16:57:02] [Server thread/INFO] [com.nisovin.shopkeepers.SKShopkeepersPlugin]: [Shopkeepers] Enabling Shopkeepers v2.19.0
+[16:57:02] [Server thread/INFO] [com.nisovin.shopkeepers.SKShopkeepersPlugin]: [Shopkeepers] Loading the data of 4 shopkeepers ...
+[16:57:02] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] Enabling CustomCrafting v4.16.9.1
+[16:57:03] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] Loaded fallback language "en_US" v6.1.0 translated by WolfyScript
+[16:57:03] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] Loaded active language "en_US" v6.1.0 translated by WolfyScript
+[16:57:03] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] ____ _  _ ____ ___ ____ _  _ ____ ____ ____ ____ ___ _ _  _ ____ 
+[16:57:03] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] |    |  | [__   |  |  | |\/| |    |__/ |__| |___  |  | |\ | | __ 
+[16:57:03] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] |___ |__| ___]  |  |__| |  | |___ |  \ |  | |     |  | | \| |__]
+[16:57:03] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting]     Version      | v4.16.9.1
+[16:57:03] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting]     WolfyUtils   | v4.16.15.1
+[16:57:03] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting]     Bukkit       | 1.20.1-639 (MC: 1.20.1)(API: 1.20.1-R0.1-SNAPSHOT)
+[16:57:03] [Server thread/INFO] [NBTAPI]: [NBTAPI] Found Spigot: v1_20_R1! Trying to find NMS support
+[16:57:03] [Server thread/INFO] [NBTAPI]: [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[16:57:03] [Server thread/INFO] [NBTAPI]: [NBTAPI] Using the plugin 'WolfyUtilities' to create a bStats instance!
+[16:57:03] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] 
+[16:57:03] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] Special thanks to my Patrons for supporting this project: 
+[16:57:03] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] Omarlatif, Nat R, Obsidian_Sword, LiveJunye, Mithran, Teddy
+[16:57:03] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] Invictus_Vulpes , Luuk Musch, fioxu, JorshStark, Perny Dev, Charlie
+[16:57:03] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] iachen, whja t, Green Masks, lance fector, Jack Snellings, MineHouse Server
+[16:57:03] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] ------------------------------------------------------------------------
+[16:57:03] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] Data destination: LOCAL
+[16:57:03] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] Initiating Inventory GUIs
+[16:57:03] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] Register ItemCreator Tabs
+[16:57:03] [Server thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:57:04] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] Loading Recipes & Items
+[16:57:04] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] - - - - [Local Storage] - - - -
+[16:57:04] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] [LOCAL] Using 4 threads
+[16:57:04] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] [LOCAL] Looking through data folder...
+[16:57:04] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] [LOCAL] Loading Items
+[16:57:04] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] [LOCAL] Loading Recipes
+[16:57:04] [ForkJoinPool-3-worker-2/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer]: Could not find parent org/bukkit/inventory/CraftingRecipe for class org/bukkit/inventory/ShapedRecipe in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@4f2410ac on thread Thread[#84,ForkJoinPool-3-worker-2,5,SERVER]
+[16:57:04] [ForkJoinPool-3-worker-2/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer]: An error occurred building event handler
+java.lang.ClassNotFoundException: org.bukkit.inventory.CraftingRecipe
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar:6.0.5+0+master.c510e2cc]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:121) ~[securejarhandler-mohist-2.1.11.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:257) ~[securejarhandler-mohist-2.1.11.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:267) ~[securejarhandler-mohist-2.1.11.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:257) ~[securejarhandler-mohist-2.1.11.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:144) ~[securejarhandler-mohist-2.1.11.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:580) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:143) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:138) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:534) ~[?:?]
+	at java.lang.Class.forName(Class.java:513) ~[?:?]
+	at sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:114) ~[?:?]
+	at sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:125) ~[?:?]
+	at sun.reflect.generics.tree.ClassTypeSignature.accept(ClassTypeSignature.java:49) ~[?:?]
+	at sun.reflect.generics.visitor.Reifier.reifyTypeArguments(Reifier.java:68) ~[?:?]
+	at sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:138) ~[?:?]
+	at sun.reflect.generics.tree.ClassTypeSignature.accept(ClassTypeSignature.java:49) ~[?:?]
+	at sun.reflect.generics.repository.ClassRepository.computeSuperInterfaces(ClassRepository.java:117) ~[?:?]
+	at sun.reflect.generics.repository.ClassRepository.getSuperInterfaces(ClassRepository.java:95) ~[?:?]
+	at java.lang.Class.getGenericInterfaces(Class.java:1296) ~[?:?]
+	at me.wolfyscript.lib.com.fasterxml.jackson.databind.util.ClassUtil.getGenericInterfaces(ClassUtil.java:1310) ~[?:?]
+	at me.wolfyscript.lib.com.fasterxml.jackson.databind.type.TypeFactory._resolveSuperInterfaces(TypeFactory.java:1521) ~[?:?]
+	at me.wolfyscript.lib.com.fasterxml.jackson.databind.type.TypeFactory._fromClass(TypeFactory.java:1476) ~[?:?]
+	at me.wolfyscript.lib.com.fasterxml.jackson.databind.type.TypeFactory.constructSpecializedType(TypeFactory.java:488) ~[?:?]
+	at me.wolfyscript.lib.com.fasterxml.jackson.databind.DeserializationContext.constructSpecializedType(DeserializationContext.java:303) ~[?:?]
+	at me.wolfyscript.customcrafting.recipes.RecipeTypeIdResolver.typeFromId(RecipeTypeIdResolver.java:66) ~[?:?]
+	at me.wolfyscript.lib.com.fasterxml.jackson.databind.jsontype.impl.TypeDeserializerBase._findDeserializer(TypeDeserializerBase.java:159) ~[?:?]
+	at me.wolfyscript.lib.com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeDeserializer._deserializeTypedForId(AsPropertyTypeDeserializer.java:125) ~[?:?]
+	at me.wolfyscript.lib.com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeDeserializer.deserializeTypedFromObject(AsPropertyTypeDeserializer.java:110) ~[?:?]
+	at me.wolfyscript.lib.com.fasterxml.jackson.databind.deser.AbstractDeserializer.deserializeWithType(AbstractDeserializer.java:263) ~[?:?]
+	at me.wolfyscript.lib.com.fasterxml.jackson.databind.deser.impl.TypeWrappedDeserializer.deserialize(TypeWrappedDeserializer.java:74) ~[?:?]
+	at me.wolfyscript.lib.com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.readRootValue(DefaultDeserializationContext.java:323) ~[?:?]
+	at me.wolfyscript.lib.com.fasterxml.jackson.databind.ObjectReader._bindAndClose(ObjectReader.java:2051) ~[?:?]
+	at me.wolfyscript.lib.com.fasterxml.jackson.databind.ObjectReader.readValue(ObjectReader.java:1599) ~[?:?]
+	at me.wolfyscript.customcrafting.handlers.LocalStorageLoader$NewDataLoader.lambda$loadRecipesInNamespace$2(LocalStorageLoader.java:483) ~[?:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+[16:57:04] [ForkJoinPool-3-worker-3/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer]: Could not find parent org/bukkit/inventory/CraftingRecipe for class org/bukkit/inventory/ShapelessRecipe in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@4f2410ac on thread Thread[#85,ForkJoinPool-3-worker-3,5,SERVER]
+[16:57:04] [ForkJoinPool-3-worker-3/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer]: An error occurred building event handler
+java.lang.ClassNotFoundException: org.bukkit.inventory.CraftingRecipe
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar:6.0.5+0+master.c510e2cc]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:121) ~[securejarhandler-mohist-2.1.11.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:257) ~[securejarhandler-mohist-2.1.11.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:267) ~[securejarhandler-mohist-2.1.11.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:257) ~[securejarhandler-mohist-2.1.11.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:144) ~[securejarhandler-mohist-2.1.11.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:580) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:143) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:138) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:534) ~[?:?]
+	at java.lang.Class.forName(Class.java:513) ~[?:?]
+	at sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:114) ~[?:?]
+	at sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:125) ~[?:?]
+	at sun.reflect.generics.tree.ClassTypeSignature.accept(ClassTypeSignature.java:49) ~[?:?]
+	at sun.reflect.generics.visitor.Reifier.reifyTypeArguments(Reifier.java:68) ~[?:?]
+	at sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:138) ~[?:?]
+	at sun.reflect.generics.tree.ClassTypeSignature.accept(ClassTypeSignature.java:49) ~[?:?]
+	at sun.reflect.generics.repository.ClassRepository.computeSuperInterfaces(ClassRepository.java:117) ~[?:?]
+	at sun.reflect.generics.repository.ClassRepository.getSuperInterfaces(ClassRepository.java:95) ~[?:?]
+	at java.lang.Class.getGenericInterfaces(Class.java:1296) ~[?:?]
+	at me.wolfyscript.lib.com.fasterxml.jackson.databind.util.ClassUtil.getGenericInterfaces(ClassUtil.java:1310) ~[?:?]
+	at me.wolfyscript.lib.com.fasterxml.jackson.databind.type.TypeFactory._resolveSuperInterfaces(TypeFactory.java:1521) ~[?:?]
+	at me.wolfyscript.lib.com.fasterxml.jackson.databind.type.TypeFactory._fromClass(TypeFactory.java:1476) ~[?:?]
+	at me.wolfyscript.lib.com.fasterxml.jackson.databind.type.TypeFactory.constructSpecializedType(TypeFactory.java:488) ~[?:?]
+	at me.wolfyscript.lib.com.fasterxml.jackson.databind.DeserializationContext.constructSpecializedType(DeserializationContext.java:303) ~[?:?]
+	at me.wolfyscript.customcrafting.recipes.RecipeTypeIdResolver.typeFromId(RecipeTypeIdResolver.java:66) ~[?:?]
+	at me.wolfyscript.lib.com.fasterxml.jackson.databind.jsontype.impl.TypeDeserializerBase._findDeserializer(TypeDeserializerBase.java:159) ~[?:?]
+	at me.wolfyscript.lib.com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeDeserializer._deserializeTypedForId(AsPropertyTypeDeserializer.java:125) ~[?:?]
+	at me.wolfyscript.lib.com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeDeserializer.deserializeTypedFromObject(AsPropertyTypeDeserializer.java:110) ~[?:?]
+	at me.wolfyscript.lib.com.fasterxml.jackson.databind.deser.AbstractDeserializer.deserializeWithType(AbstractDeserializer.java:263) ~[?:?]
+	at me.wolfyscript.lib.com.fasterxml.jackson.databind.deser.impl.TypeWrappedDeserializer.deserialize(TypeWrappedDeserializer.java:74) ~[?:?]
+	at me.wolfyscript.lib.com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.readRootValue(DefaultDeserializationContext.java:323) ~[?:?]
+	at me.wolfyscript.lib.com.fasterxml.jackson.databind.ObjectReader._bindAndClose(ObjectReader.java:2051) ~[?:?]
+	at me.wolfyscript.lib.com.fasterxml.jackson.databind.ObjectReader.readValue(ObjectReader.java:1599) ~[?:?]
+	at me.wolfyscript.customcrafting.handlers.LocalStorageLoader$NewDataLoader.lambda$loadRecipesInNamespace$2(LocalStorageLoader.java:483) ~[?:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+[16:57:04] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] [LOCAL] Loaded 6 recipes in 108ms
+[16:57:04] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] Indexing Recipe Book...
+[16:57:04] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] Indexed Recipe Book!
+[16:57:04] [Server thread/INFO] [me.wolfyscript.customcrafting.CustomCrafting]: [CustomCrafting] ------------------------------------------------------------------------
+[16:57:04] [Server thread/INFO] [com.mohistmc.plugins.Main]: [Mohist] Enabling Mohist v1.20.1
+[16:57:04] [Server thread/INFO] [Minecraft]: Server permissions file permissions.yml is empty, ignoring it
+[16:57:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (16.848s)! For help, type "help"
+[16:57:04] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI]: Successfully initialized permission handler forge:default_handler
+[16:57:04] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI]: Forwarding forge permission[forge:default_handler] to bukkit[mohist:permission]
+[16:57:04] [Server thread/WARN] [voicechat]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[16:57:04] [VoiceChatServerThread/INFO] [voicechat]: [voicechat] Voice chat server started at port 25565
+[16:57:04] [Server thread/INFO] [Console]: GlitchWorld ➤ No se ha encontrado una librería JDA, deberás instalar una en caso de querer utilizar un bot de Discord.
+[16:57:04] [Server thread/INFO] [Console]: Descarga aquí: https://www.spigotmc.org/resources/permadeath-%E2%98%A0%EF%B8%8F.112343/
+[16:57:04] [Server thread/INFO] [Console]: Si no puedes descargarlo allí, únete a este Discord y te daremos acceso al enlace: https://discord.gg/8evPbuxPke
+[16:57:04] [Server thread/INFO] [Console]: [08/04/2024] 16:57:04 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+
+[16:57:04] [Server thread/INFO] [Console]: [08/04/2024] 16:57:04 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+
+[16:57:04] [Server thread/INFO] [Console]: [08/04/2024] 16:57:04 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+
+[16:57:04] [Server thread/INFO] [Console]: ------------------------------------------
+[16:57:04] [Server thread/INFO] [Console]:              PERMADEATH
+[16:57:04] [Server thread/INFO] [Console]:      - Versión: 1.3
+[16:57:04] [Server thread/INFO] [Console]:      - Versión del Servidor: v1.20
+[16:57:04] [Server thread/INFO] [Console]: ------------------------------------------
+[16:57:04] [Server thread/INFO] [Console]:  >> INFORME DE ESTADO
+[16:57:04] [Server thread/INFO] [Console]: > Estado de mundos: Overworld: world End: world
+[16:57:04] [Server thread/INFO] [Console]:     > End: world
+[16:57:04] [Server thread/INFO] [Console]:     > Overworld: world
+[16:57:04] [Server thread/INFO] [Console]: > Estado de Compatibilidad: Compatible
+[16:57:04] [Server thread/INFO] [Console]: > Software: SpigotMC (Compatible)
+[16:57:04] [Server thread/INFO] [Console]: > Cambios:
+[16:57:04] [Server thread/INFO] [Console]: >   Días disponibles: 1-60
+[16:57:05] [Craft Scheduler Thread - 1/INFO] [Console]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[16:57:05] [Craft Scheduler Thread - 1/INFO] [Console]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[16:57:05] [Craft Scheduler Thread - 1/INFO] [Console]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[16:57:05] [Craft Scheduler Thread - 1/INFO] [Console]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[16:57:05] [Craft Scheduler Thread - 1/INFO] [Console]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[16:57:05] [Craft Scheduler Thread - 1/INFO] [Console]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[16:57:05] [Craft Scheduler Thread - 1/INFO] [Console]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[16:57:05] [Craft Scheduler Thread - 1/INFO] [Console]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.0.8[0;39m
+[16:57:05] [Craft Scheduler Thread - 1/INFO] [Console]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8b54a2c[0;39m
+[16:57:05] [Craft Scheduler Thread - 1/INFO] [Console]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[16:57:05] [Craft Scheduler Thread - 1/INFO] [Console]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[16:57:05] [Craft Scheduler Thread - 3/INFO] [Console]: GlitchWorld ➤ Versión del plugin: Versión más reciente instalada.
+[16:57:28] [Server thread/INFO] [Console]: Mr_PanckeisXD se ha unido al glitch.
+[16:57:28] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: Mr_PanckeisXD[/127.0.0.1:39780] logged in with entity id 131 at ([world]1.8947673373299943, 52.0, 10.422190886262786)
+[16:57:28] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of [ADMIN] Mr_PanckeisXD (18)
+[16:57:28] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to [ADMIN] Mr_PanckeisXD
+[16:57:35] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /kill
+[16:57:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Set the weather to rain & thunder
+[16:57:35] [Server thread/INFO] [Console]: Mr_PanckeisXD ha muerto y ahora descanza en paz.
+[16:57:35] [Server thread/INFO] [Console]: Este es el comienzo del sufrimiento eterno de Mr_PanckeisXD. ¡HA SIDO GLITCHEADO!
+[16:57:35] [Server thread/INFO] [Console]: X: 0 || Y: 55 || Z: 4
+[16:57:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [ADMIN] Mr_PanckeisXD was killed
+[16:57:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Killed [ADMIN] Mr_PanckeisXD]
+[16:57:40] [Server thread/INFO] [Console]: ¡Comienza el GLITCH Train con duración de 2 horas!
+[16:57:54] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode creative
+[16:57:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Creative Mode]
+[16:58:09] [Server thread/INFO] [Console]: ivelich350 se ha unido al glitch.
+[16:58:09] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: ivelich350[/127.0.0.1:35606] logged in with entity id 192 at ([world]9909.49748178799, 174.0, 9895.36927559951)
+[16:58:10] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of [ADMIN] ivelich350 (18)
+[16:58:10] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to [ADMIN] ivelich350
+[16:58:17] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[16:58:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[16:58:25] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[16:58:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[16:58:29] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /kill Mr_PanckeisXD
+[16:58:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Set the weather to rain & thunder
+[16:58:29] [Server thread/INFO] [Console]: Mr_PanckeisXD ha muerto y ahora descanza en paz.
+[16:58:29] [Server thread/INFO] [Console]: Este es el comienzo del sufrimiento eterno de Mr_PanckeisXD. ¡HA SIDO GLITCHEADO!
+[16:58:29] [Server thread/INFO] [Console]: X: -2 || Y: 57 || Z: 2
+[16:58:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [ADMIN] Mr_PanckeisXD was killed
+[16:58:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Killed [ADMIN] Mr_PanckeisXD]
+[16:58:34] [Server thread/INFO] [Console]: ¡Comienza el GLITCH Train con duración de 2 horas!
+[16:58:49] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode creative
+[16:58:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Creative Mode]
+[16:59:10] [Server thread/ERROR] [net.minecraft.Util]: Invalid entity rotation: NaN, discarding.
+[16:59:33] [Server thread/ERROR] [net.minecraft.Util]: Invalid entity rotation: NaN, discarding.
+[17:00:14] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //hcyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks
+[17:00:17] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //hcyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:00:19] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //hcyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:00:23] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //hcyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:00:24] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //hcyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:00:28] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:00:54] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:00:56] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:00:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:01:02] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:01:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:01:02] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /tps
+[17:01:14] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /tps
+[17:01:23] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /tps
+[17:01:28] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:01:41] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:01:44] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:01:57] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:01:59] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:01:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:02:01] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:02:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:02:02] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:02:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:02:04] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:02:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:03:57] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:04:00] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:04:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:04:01] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:04:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:04:02] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:04:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:04:07] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:04:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:04:12] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /weather clear
+[17:04:12] [Server thread/INFO] [Console]: La tormenta glitcheada ha llegado a su fin.
+[17:04:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set the weather to clear]
+[17:05:59] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //gmask =y>
+[17:06:04] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //gmask =y>173
+[17:06:16] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //hsphere 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:06:18] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:06:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:06:28] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //gmask
+[17:06:36] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:06:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:07:03] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:07:06] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:07:09] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:07:31] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:07:32] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:07:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:07:33] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:07:33] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:07:35] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:07:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:07:36] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:07:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:07:37] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:07:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:07:38] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:07:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:08:17] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode spectator
+[17:08:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Spectator Mode]
+[17:08:18] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode survival
+[17:08:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Survival Mode]
+[17:08:23] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode creative
+[17:08:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Creative Mode]
+[17:08:36] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:08:46] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //gmask =y>173
+[17:08:48] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //hsphere 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:09:04] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //gmask
+[17:09:05] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:09:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:09:31] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:09:32] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:09:33] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:09:33] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:09:34] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:09:51] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:09:57] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //gmask
+[17:09:58] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:10:00] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:10:01] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:10:01] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:10:05] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:10:06] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:10:06] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:10:21] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:10:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:10:43] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:10:47] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:10:49] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:10:55] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:11:24] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //gmask =y>173
+[17:11:28] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //hsphere 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:11:36] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //gmask
+[17:11:43] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:11:44] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:11:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:11:46] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:11:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:12:17] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:12:23] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:12:24] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:12:31] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:12:45] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:12:49] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:12:50] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:14:04] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:14:09] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //gmask =y>173
+[17:14:12] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //hsphere 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:14:15] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //gmask
+[17:14:46] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:14:49] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:14:52] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:14:53] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:14:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:14:54] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:14:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:15:01] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:15:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:15:10] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:15:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:15:12] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:15:13] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:15:20] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:15:21] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:15:27] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:15:31] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:15:32] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:15:33] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:15:37] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:15:41] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:15:43] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:15:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:15:47] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:15:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:15:52] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:16:00] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:16:06] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:16:16] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //gmask =y>173
+[17:16:19] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //hsphere 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:16:23] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //gmask
+[17:16:24] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:16:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:16:34] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:16:35] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:16:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:16:43] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //gmask =y>173
+[17:16:45] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //hsphere 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:16:47] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //gmask
+[17:16:48] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:16:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:17:00] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:17:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:17:03] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:17:04] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:17:14] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //gmask
+[17:17:21] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:17:32] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //gmask =y>173
+[17:17:35] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //hsphere 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:17:41] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:17:42] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //hsphere 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:17:44] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:18:08] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:18:13] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //hsphere 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:18:18] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //gmask =y>173
+[17:18:20] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //gmask
+[17:18:22] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //gmask
+[17:18:27] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:18:29] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:18:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:18:31] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:18:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:18:35] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:18:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:18:41] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:18:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:18:47] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:18:47] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:18:50] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:18:51] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:18:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:18:58] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:18:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:19:02] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:19:03] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:19:14] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:19:19] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:19:40] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //undo
+[17:19:41] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //cyl 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:19:51] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //gmask =y>173
+[17:19:54] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //hsphere 1%magma_block,9%red_nether_bricks,45%nether_bricks,cracked_nether_bricks 10
+[17:19:58] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: //gmask
+[17:19:59] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:19:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:20:04] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:20:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:20:17] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /tp ivelich350
+[17:20:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Teleported [ADMIN] Mr_PanckeisXD to [ADMIN] ivelich350]
+[17:20:32] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:20:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:20:36] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode spectator
+[17:20:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Spectator Mode]
+[17:20:52] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:20:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:20:56] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /tp ivelich350
+[17:20:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Teleported [ADMIN] Mr_PanckeisXD to [ADMIN] ivelich350]
+[17:21:22] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode creative
+[17:21:22] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Creative Mode]
+[17:21:30] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:21:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:21:44] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:21:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:21:57] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /tp ivelich350
+[17:21:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Teleported [ADMIN] Mr_PanckeisXD to [ADMIN] ivelich350]
+[17:22:07] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode spectator
+[17:22:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Spectator Mode]
+[17:22:15] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode creative
+[17:22:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Creative Mode]
+[17:23:16] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode spectator
+[17:23:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Spectator Mode]
+[17:23:37] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /effect give Mr_PanckeisXD minecraft:night_vision infinite 255 true
+[17:23:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Applied effect Night Vision to [ADMIN] Mr_PanckeisXD]
+[17:23:43] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode creative
+[17:23:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Creative Mode]
+[17:23:54] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode spectator
+[17:23:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Spectator Mode]
+[17:23:56] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode creative
+[17:23:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Creative Mode]
+[17:25:23] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode spectator
+[17:25:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Spectator Mode]
+[17:25:26] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode creative
+[17:25:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Creative Mode]
+[17:25:38] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:25:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:25:41] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /tp Mr_PanckeisXD
+[17:25:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Teleported [ADMIN] ivelich350 to [ADMIN] Mr_PanckeisXD]
+[17:25:42] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:25:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:25:45] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:25:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:25:49] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:25:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:25:50] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:25:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:25:58] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode survival
+[17:25:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Survival Mode]
+[17:25:59] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:25:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:26:00] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:26:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:26:22] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode spectator
+[17:26:22] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Spectator Mode]
+[17:26:30] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode survival
+[17:26:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Survival Mode]
+[17:26:31] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode creative
+[17:26:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Creative Mode]
+[17:26:56] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:26:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:26:59] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:26:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:28:10] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode adventure
+[17:28:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Adventure Mode]
+[17:28:11] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode creative
+[17:28:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Creative Mode]
+[17:28:13] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode spectator
+[17:28:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Spectator Mode]
+[17:28:20] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode creative
+[17:28:20] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Creative Mode]
+[17:28:22] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode spectator
+[17:28:22] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Spectator Mode]
+[17:28:24] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode creative
+[17:28:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Creative Mode]
+[17:29:30] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:29:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:29:37] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:29:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:29:44] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /tp Mr_PanckeisXD
+[17:29:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Teleported [ADMIN] ivelich350 to [ADMIN] Mr_PanckeisXD]
+[17:31:18] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /setblock 9910 149 9993 minecraft:spawner
+[17:31:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Changed the block at 9910, 149, 9993]
+[17:31:45] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:31:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:31:46] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:31:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:31:47] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:31:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:31:51] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:31:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:33:41] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode spectator
+[17:33:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Spectator Mode]
+[17:33:47] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode creative
+[17:33:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Creative Mode]
+[17:34:58] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode spectator
+[17:34:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Spectator Mode]
+[17:35:00] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode creative
+[17:35:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Creative Mode]
+[17:35:02] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode spectator
+[17:35:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Spectator Mode]
+[17:35:07] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode creative
+[17:35:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Creative Mode]
+[17:35:35] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /give @s command_block
+[17:35:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Gave 1 [Command Block] to [ADMIN] ivelich350]
+[17:36:07] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /enchant Mr_PanckeisXD minecraft:protection 4
+[17:36:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Applied enchantment Protection IV to [ADMIN] Mr_PanckeisXD's item]
+[17:36:09] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /enchant Mr_PanckeisXD minecraft:protection 4
+[17:36:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Applied enchantment Protection IV to [ADMIN] Mr_PanckeisXD's item]
+[17:36:10] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /enchant Mr_PanckeisXD minecraft:protection 4
+[17:36:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Applied enchantment Protection IV to [ADMIN] Mr_PanckeisXD's item]
+[17:36:12] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /enchant Mr_PanckeisXD minecraft:protection 4
+[17:36:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Applied enchantment Protection IV to [ADMIN] Mr_PanckeisXD's item]
+[17:36:15] [Async Chat Thread - #1/INFO] [Console]: <Mr_PanckeisXD> a
+[17:36:19] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode spectator
+[17:36:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Spectator Mode]
+[17:36:21] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode survival
+[17:36:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Survival Mode]
+[17:36:36] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode creative
+[17:36:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Creative Mode]
+[17:37:00] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode survival
+[17:37:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Survival Mode]
+[17:37:15] [Server thread/INFO] []: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 2
+[17:37:34] [Server thread/INFO] []: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 2
+[17:37:51] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/11623, l='ServerLevel[world]', x=9915.73, y=150.00, z=9992.48] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:37:51] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/11662, l='ServerLevel[world]', x=9914.20, y=150.00, z=9993.51] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:37:51] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/11793, l='ServerLevel[world]', x=9915.35, y=150.00, z=9993.56] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:37:52] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/11622, l='ServerLevel[world]', x=9916.64, y=150.00, z=9993.58] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:37:56] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/11917, l='ServerLevel[world]', x=9909.14, y=150.00, z=9995.54] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:37:56] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/11660, l='ServerLevel[world]', x=9908.97, y=150.00, z=9995.21] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:37:57] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/11795, l='ServerLevel[world]', x=9907.44, y=150.00, z=9994.29] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:37:57] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/11880, l='ServerLevel[world]', x=9907.99, y=150.00, z=9993.70] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:37:57] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/11661, l='ServerLevel[world]', x=9908.21, y=150.00, z=9994.25] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:37:58] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/11878, l='ServerLevel[world]', x=9906.59, y=150.00, z=9991.55] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:37:58] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/11879, l='ServerLevel[world]', x=9905.59, y=150.00, z=9992.23] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:38:03] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/11610, l='ServerLevel[world]', x=9907.96, y=150.00, z=9995.33] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:38:03] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/11808, l='ServerLevel[world]', x=9907.12, y=150.00, z=9994.88] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:38:03] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/11609, l='ServerLevel[world]', x=9906.22, y=150.00, z=9994.50] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:38:04] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/11794, l='ServerLevel[world]', x=9906.48, y=150.00, z=9993.84] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:38:04] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/11663, l='ServerLevel[world]', x=9905.61, y=150.00, z=9993.60] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:38:05] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/11881, l='ServerLevel[world]', x=9906.54, y=150.00, z=9990.46] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:38:05] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/11791, l='ServerLevel[world]', x=9907.09, y=150.00, z=9990.89] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:38:06] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/11792, l='ServerLevel[world]', x=9910.69, y=150.00, z=9986.16] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:38:06] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/11949, l='ServerLevel[world]', x=9911.38, y=150.00, z=9985.53] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:38:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [ADMIN] Mr_PanckeisXD has made the advancement [Spooky Scary Skeleton]
+[17:38:53] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode creative
+[17:38:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Creative Mode]
+[17:38:55] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode survival
+[17:38:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Survival Mode]
+[17:38:56] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode spectator
+[17:38:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Spectator Mode]
+[17:39:04] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode creative
+[17:39:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Creative Mode]
+[17:39:13] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12165, l='ServerLevel[world]', x=9907.36, y=150.00, z=9993.81] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:39:13] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12164, l='ServerLevel[world]', x=9910.56, y=150.00, z=9991.09] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:39:15] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12166, l='ServerLevel[world]', x=9912.65, y=150.00, z=10001.65] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:40:26] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /give Mr_PanckeisXD netherite_chestplate{Unbreakable:1,Enchantments:[{id:protection,lvl:4}]} 1
+[17:40:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Gave 1 [Netherite Chestplate] to [ADMIN] Mr_PanckeisXD]
+[17:40:32] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /give Mr_PanckeisXD minecraft:netherite_leggings{Unbreakable:1,Enchantments:[{id:protection,lvl:4}]} 1
+[17:40:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Gave 1 [Netherite Leggings] to [ADMIN] Mr_PanckeisXD]
+[17:40:36] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /give Mr_PanckeisXD minecraft:netherite_boots{Unbreakable:1,Enchantments:[{id:protection,lvl:4}]} 1
+[17:40:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Gave 1 [Netherite Boots] to [ADMIN] Mr_PanckeisXD]
+[17:40:49] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /give Mr_PanckeisXD minecraft:netherite_helmet{Unbreakable:1,Enchantments:[{id:protection,lvl:4}]} 1
+[17:40:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Gave 1 [Netherite Helmet] to [ADMIN] Mr_PanckeisXD]
+[17:40:52] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode survival
+[17:40:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Survival Mode]
+[17:41:07] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12376, l='ServerLevel[world]', x=9912.65, y=150.00, z=10000.83] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD using [☢ ɢʟɪᴛᴄʜꜱᴡᴏʀᴅ ☢]
+[17:41:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12310, l='ServerLevel[world]', x=9910.12, y=150.00, z=9999.20] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:41:17] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12250, l='ServerLevel[world]', x=9909.95, y=150.00, z=9997.84] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:41:17] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12375, l='ServerLevel[world]', x=9909.15, y=150.00, z=9995.93] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:41:17] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12269, l='ServerLevel[world]', x=9909.88, y=150.00, z=9993.79] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:41:18] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12309, l='ServerLevel[world]', x=9910.12, y=151.18, z=9992.54] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:41:18] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12307, l='ServerLevel[world]', x=9909.25, y=150.12, z=9993.35] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:41:19] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12202, l='ServerLevel[world]', x=9908.97, y=150.88, z=9990.68] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:41:19] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12203, l='ServerLevel[world]', x=9908.63, y=150.00, z=9988.04] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:41:20] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12270, l='ServerLevel[world]', x=9910.38, y=150.00, z=9989.80] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:41:25] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12436, l='ServerLevel[world]', x=9908.58, y=150.00, z=9991.38] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:41:26] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12437, l='ServerLevel[world]', x=9906.56, y=150.00, z=9994.65] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:43:27] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12668, l='ServerLevel[world]', x=9908.42, y=150.00, z=9991.95] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD using [☢ ɢʟɪᴛᴄʜꜱᴡᴏʀᴅ ☢]
+[17:43:35] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode creative
+[17:43:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Creative Mode]
+[17:43:48] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /enchant Mr_PanckeisXD minecraft:sharpness 5
+[17:43:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Applied enchantment Sharpness V to [ADMIN] Mr_PanckeisXD's item]
+[17:43:49] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode survival
+[17:43:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Survival Mode]
+[17:44:01] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12717, l='ServerLevel[world]', x=9907.55, y=150.00, z=9986.15] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:44:25] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12749, l='ServerLevel[world]', x=9903.18, y=150.00, z=9998.59] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:44:34] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /effect clear
+[17:44:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Removed every effect from [ADMIN] Mr_PanckeisXD]
+[17:44:54] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12809, l='ServerLevel[world]', x=9913.68, y=150.00, z=10000.65] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:45:01] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /effect clear
+[17:45:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Removed every effect from [ADMIN] Mr_PanckeisXD]
+[17:45:10] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /effect clear
+[17:45:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Removed every effect from [ADMIN] Mr_PanckeisXD]
+[17:45:25] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12856, l='ServerLevel[world]', x=9904.25, y=150.00, z=9994.55] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:45:27] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /effect clear
+[17:45:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Removed every effect from [ADMIN] Mr_PanckeisXD]
+[17:45:54] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12899, l='ServerLevel[world]', x=9907.74, y=150.00, z=9987.46] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:46:32] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /effect clear
+[17:46:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Removed every effect from [ADMIN] Mr_PanckeisXD]
+[17:46:49] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12953, l='ServerLevel[world]', x=9905.44, y=150.00, z=9995.17] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:46:51] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12955, l='ServerLevel[world]', x=9904.59, y=150.00, z=9997.34] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:46:51] [Server thread/INFO] []: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 2
+[17:47:08] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12965, l='ServerLevel[world]', x=9915.19, y=150.00, z=9985.35] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:47:21] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12966, l='ServerLevel[world]', x=9905.53, y=150.00, z=9997.27] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:47:25] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12964, l='ServerLevel[world]', x=9908.65, y=150.00, z=10001.65] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:47:25] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13042, l='ServerLevel[world]', x=9907.96, y=150.31, z=9999.35] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:47:27] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13028, l='ServerLevel[world]', x=9906.70, y=150.00, z=10000.58] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:47:28] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12970, l='ServerLevel[world]', x=9905.44, y=150.00, z=9999.61] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:47:41] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13031, l='ServerLevel[world]', x=9907.15, y=150.00, z=10001.12] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:47:46] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13056, l='ServerLevel[world]', x=9906.78, y=150.00, z=10001.65] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:47:47] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13030, l='ServerLevel[world]', x=9907.02, y=150.00, z=10000.91] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:47:48] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13165, l='ServerLevel[world]', x=9906.50, y=150.00, z=10001.38] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:47:48] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13158, l='ServerLevel[world]', x=9907.00, y=150.00, z=10001.65] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:47:49] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13157, l='ServerLevel[world]', x=9906.44, y=150.00, z=10001.54] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:47:52] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13185, l='ServerLevel[world]', x=9907.03, y=150.00, z=10001.50] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:47:55] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13156, l='ServerLevel[world]', x=9906.66, y=150.00, z=10001.64] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:48:20] [Server thread/INFO] []: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 2
+[17:48:28] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13260, l='ServerLevel[world]', x=9918.65, y=150.00, z=9990.47] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:48:29] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13261, l='ServerLevel[world]', x=9918.65, y=150.00, z=9990.41] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:48:30] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13159, l='ServerLevel[world]', x=9918.65, y=150.00, z=9990.22] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:48:47] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13262, l='ServerLevel[world]', x=9915.65, y=150.00, z=9999.23] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:48:49] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13266, l='ServerLevel[world]', x=9915.65, y=150.00, z=9999.53] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:49:02] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13395, l='ServerLevel[world]', x=9906.94, y=150.00, z=10001.13] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:49:03] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13265, l='ServerLevel[world]', x=9907.65, y=150.00, z=10001.65] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:49:06] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13396, l='ServerLevel[world]', x=9908.50, y=152.00, z=10001.55] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:49:09] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13439, l='ServerLevel[world]', x=9912.53, y=150.00, z=10001.35] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:49:28] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13433, l='ServerLevel[world]', x=9907.85, y=150.00, z=9987.56] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:49:31] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13263, l='ServerLevel[world]', x=9908.46, y=150.00, z=9985.91] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:49:34] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13479, l='ServerLevel[world]', x=9905.07, y=150.00, z=9985.41] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:49:44] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13437, l='ServerLevel[world]', x=9906.57, y=150.00, z=9984.53] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:49:45] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13400, l='ServerLevel[world]', x=9906.35, y=150.00, z=9983.35] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:49:46] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13480, l='ServerLevel[world]', x=9906.64, y=150.00, z=9984.08] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:49:47] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13432, l='ServerLevel[world]', x=9906.98, y=150.00, z=9983.35] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:49:50] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13501, l='ServerLevel[world]', x=9906.50, y=150.00, z=9983.72] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:49:50] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13500, l='ServerLevel[world]', x=9906.74, y=150.00, z=9984.15] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:49:54] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13438, l='ServerLevel[world]', x=9906.35, y=150.00, z=10000.57] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:49:59] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13619, l='ServerLevel[world]', x=9903.35, y=150.00, z=9995.20] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:50:00] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/12956, l='ServerLevel[world]', x=9902.82, y=154.50, z=9992.85] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:50:03] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13604, l='ServerLevel[world]', x=9904.51, y=150.00, z=9989.84] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:50:07] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:50:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:50:09] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13620, l='ServerLevel[world]', x=9900.84, y=151.00, z=9991.52] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:50:10] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13624, l='ServerLevel[world]', x=9902.35, y=150.00, z=9991.71] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:50:14] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:50:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:50:14] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13679, l='ServerLevel[world]', x=9907.04, y=150.00, z=9989.67] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:50:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13680, l='ServerLevel[world]', x=9906.44, y=150.00, z=9989.24] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:50:16] [Server thread/INFO] []: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 2
+[17:50:26] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode spectator
+[17:50:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Spectator Mode]
+[17:50:31] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13750, l='ServerLevel[world]', x=9908.65, y=150.00, z=9999.03] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:50:41] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13686, l='ServerLevel[world]', x=9911.27, y=150.00, z=9985.63] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:50:43] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:50:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:50:48] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode adventure
+[17:50:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Adventure Mode]
+[17:50:49] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode creative
+[17:50:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Creative Mode]
+[17:50:49] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:50:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:51:02] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /KILL @E[type=wither_skeleton]
+[17:51:11] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /kill @e[type=wither_skeleton]
+[17:51:11] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13904, l='ServerLevel[world]', x=9912.73, y=128.00, z=9984.71] died: INFERNAL DEMON was killed
+[17:51:11] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13905, l='ServerLevel[world]', x=9904.94, y=150.00, z=9993.38] died: INFERNAL DEMON was killed
+[17:51:11] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13906, l='ServerLevel[world]', x=9908.53, y=150.00, z=9995.78] died: INFERNAL DEMON was killed
+[17:51:11] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13908, l='ServerLevel[world]', x=9910.05, y=150.00, z=9990.04] died: INFERNAL DEMON was killed
+[17:51:11] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13909, l='ServerLevel[world]', x=9915.84, y=150.00, z=9987.81] died: INFERNAL DEMON was killed
+[17:51:11] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13911, l='ServerLevel[world]', x=9902.79, y=151.00, z=9991.31] died: INFERNAL DEMON was killed
+[17:51:11] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13923, l='ServerLevel[world]', x=9905.64, y=128.00, z=10018.04] died: INFERNAL DEMON was killed
+[17:51:11] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13924, l='ServerLevel[world]', x=9893.93, y=128.00, z=10006.08] died: INFERNAL DEMON was killed
+[17:51:11] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13925, l='ServerLevel[world]', x=9897.40, y=128.00, z=10020.71] died: INFERNAL DEMON was killed
+[17:51:11] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13921, l='ServerLevel[world]', x=9916.66, y=128.00, z=10007.02] died: INFERNAL DEMON was killed
+[17:51:11] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13935, l='ServerLevel[world]', x=9925.88, y=128.00, z=10007.74] died: INFERNAL DEMON was killed
+[17:51:11] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13927, l='ServerLevel[world]', x=9890.58, y=128.00, z=9996.79] died: INFERNAL DEMON was killed
+[17:51:11] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13928, l='ServerLevel[world]', x=9899.79, y=128.00, z=9984.58] died: INFERNAL DEMON was killed
+[17:51:11] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13929, l='ServerLevel[world]', x=9875.61, y=128.00, z=9990.76] died: INFERNAL DEMON was killed
+[17:51:11] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13930, l='ServerLevel[world]', x=9909.49, y=151.00, z=9998.58] died: INFERNAL DEMON was killed
+[17:51:11] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13916, l='ServerLevel[world]', x=9899.83, y=128.00, z=9985.51] died: INFERNAL DEMON was killed
+[17:51:11] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13917, l='ServerLevel[world]', x=9912.15, y=136.00, z=9981.50] died: INFERNAL DEMON was killed
+[17:51:11] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13922, l='ServerLevel[world]', x=9905.77, y=128.00, z=9969.77] died: INFERNAL DEMON was killed
+[17:51:11] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13936, l='ServerLevel[world]', x=9935.72, y=128.00, z=10015.03] died: INFERNAL DEMON was killed
+[17:51:11] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13926, l='ServerLevel[world]', x=9891.50, y=128.00, z=9965.66] died: INFERNAL DEMON was killed
+[17:51:11] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13938, l='ServerLevel[world]', x=9873.60, y=128.00, z=9988.78] died: INFERNAL DEMON was killed
+[17:51:11] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13939, l='ServerLevel[world]', x=9897.96, y=128.00, z=10009.75] died: INFERNAL DEMON was killed
+[17:51:11] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13920, l='ServerLevel[world]', x=9875.85, y=128.00, z=9979.85] died: INFERNAL DEMON was killed
+[17:51:11] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/13937, l='ServerLevel[world]', x=9901.62, y=128.00, z=10026.75] died: INFERNAL DEMON was killed
+[17:51:11] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14053, l='ServerLevel[world]', x=9894.60, y=128.00, z=9993.00] died: INFERNAL DEMON was killed
+[17:51:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Killed 25 entities]
+[17:51:15] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode survival
+[17:51:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Survival Mode]
+[17:51:22] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:51:22] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:51:25] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14099, l='ServerLevel[world]', x=9904.68, y=150.00, z=9987.78] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:51:25] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:51:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:51:28] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14081, l='ServerLevel[world]', x=9904.16, y=150.00, z=9986.55] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:51:29] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14117, l='ServerLevel[world]', x=9905.45, y=150.00, z=9987.25] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:51:37] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14116, l='ServerLevel[world]', x=9914.15, y=150.00, z=9995.63] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:51:54] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14148, l='ServerLevel[world]', x=9904.21, y=150.00, z=9988.65] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:52:00] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14147, l='ServerLevel[world]', x=9904.66, y=150.00, z=9988.18] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:52:01] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14150, l='ServerLevel[world]', x=9902.89, y=150.00, z=9987.48] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:52:02] [Server thread/INFO] []: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 2
+[17:52:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14146, l='ServerLevel[world]', x=9904.68, y=150.00, z=9998.82] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:52:18] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14152, l='ServerLevel[world]', x=9903.95, y=150.00, z=9998.85] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:52:21] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14188, l='ServerLevel[world]', x=9903.55, y=150.00, z=9997.51] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:52:26] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14151, l='ServerLevel[world]', x=9902.35, y=150.00, z=9997.94] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:52:26] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14208, l='ServerLevel[world]', x=9902.16, y=150.00, z=9997.40] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:52:45] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14210, l='ServerLevel[world]', x=9917.65, y=150.00, z=9987.66] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:52:47] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14235, l='ServerLevel[world]', x=9917.65, y=150.00, z=9988.18] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:52:48] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14189, l='ServerLevel[world]', x=9916.91, y=150.00, z=9989.63] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:52:53] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14323, l='ServerLevel[world]', x=9916.21, y=150.00, z=9989.38] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:52:53] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14214, l='ServerLevel[world]', x=9916.92, y=150.00, z=9988.71] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:52:54] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14209, l='ServerLevel[world]', x=9917.65, y=150.00, z=9988.61] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:53:01] [Server thread/INFO] []: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 2
+[17:53:13] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14233, l='ServerLevel[world]', x=9905.68, y=150.00, z=9985.57] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:53:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14270, l='ServerLevel[world]', x=9905.31, y=150.00, z=9984.44] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:53:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14321, l='ServerLevel[world]', x=9904.79, y=150.00, z=9984.43] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:53:18] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14234, l='ServerLevel[world]', x=9905.59, y=150.00, z=9987.70] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:53:19] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14358, l='ServerLevel[world]', x=9905.34, y=150.00, z=9984.58] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:53:31] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14346, l='ServerLevel[world]', x=9917.62, y=150.00, z=9994.97] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:53:34] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14322, l='ServerLevel[world]', x=9917.42, y=150.00, z=9994.37] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:53:35] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14185, l='ServerLevel[world]', x=9918.65, y=150.00, z=9989.80] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:53:42] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14312, l='ServerLevel[world]', x=9913.85, y=150.00, z=9996.40] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:54:06] [Server thread/INFO] []: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 2
+[17:54:09] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:54:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:54:13] [Server thread/INFO] []: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 2
+[17:54:15] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14359, l='ServerLevel[world]', x=9907.60, y=150.00, z=10001.65] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:54:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14327, l='ServerLevel[world]', x=9906.35, y=150.00, z=10001.65] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:54:18] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14491, l='ServerLevel[world]', x=9906.35, y=150.00, z=10001.63] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:54:19] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14449, l='ServerLevel[world]', x=9906.46, y=150.00, z=10001.58] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:54:19] [Server thread/INFO] []: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 2
+[17:54:23] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14423, l='ServerLevel[world]', x=9907.47, y=150.00, z=10001.65] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:54:24] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:54:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[17:54:24] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14433, l='ServerLevel[world]', x=9906.63, y=150.00, z=9999.49] died: INFERNAL DEMON was slain by [ADMIN] Mr_PanckeisXD
+[17:54:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Set the weather to rain & thunder
+[17:54:25] [Server thread/INFO] [Console]: Mr_PanckeisXD ha muerto y ahora descanza en paz.
+[17:54:25] [Server thread/INFO] [Console]: Este es el comienzo del sufrimiento eterno de Mr_PanckeisXD. ¡HA SIDO GLITCHEADO!
+[17:54:25] [Server thread/INFO] [Console]: X: 9906 || Y: 150 || Z: 10001
+[17:54:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [ADMIN] Mr_PanckeisXD was slain by INFERNAL DEMON
+[17:54:30] [Server thread/INFO] [Console]: ¡Comienza el GLITCH Train con duración de 2 horas!
+[17:54:38] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /tp @e[type=minecraft:wither_skeleton]
+[17:54:40] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /tp @e[type=minecraft:wither_skeleton] @s
+[17:54:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Teleported 26 entities to [ADMIN] ivelich350]
+[17:54:40] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14345, l='ServerLevel[world]', x=9905.80, y=152.01, z=9991.48] died: INFERNAL DEMON was squished too much
+[17:54:43] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /tp @e[type=minecraft:wither_skeleton] @s
+[17:54:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Teleported 25 entities to [ADMIN] ivelich350]
+[17:54:44] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14098, l='ServerLevel[world]', x=9908.38, y=155.20, z=9991.25] died: INFERNAL DEMON was squished too much
+[17:54:44] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14082, l='ServerLevel[world]', x=9906.55, y=150.00, z=9985.23] died: INFERNAL DEMON hit the ground too hard
+[17:54:44] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14310, l='ServerLevel[world]', x=9911.19, y=150.00, z=9991.49] died: INFERNAL DEMON hit the ground too hard
+[17:54:44] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14360, l='ServerLevel[world]', x=9904.65, y=150.00, z=9994.82] died: INFERNAL DEMON hit the ground too hard
+[17:54:44] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14395, l='ServerLevel[world]', x=9907.88, y=150.00, z=9989.11] died: INFERNAL DEMON hit the ground too hard
+[17:54:44] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /tp @e[type=minecraft:wither_skeleton] @s
+[17:54:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Teleported 20 entities to [ADMIN] ivelich350]
+[17:54:45] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /tp @e[type=minecraft:wither_skeleton] @s
+[17:54:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Teleported 20 entities to [ADMIN] ivelich350]
+[17:54:46] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /tp @e[type=minecraft:wither_skeleton] @s
+[17:54:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Teleported 20 entities to [ADMIN] ivelich350]
+[17:54:46] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14083, l='ServerLevel[world]', x=9910.58, y=150.00, z=9995.28] died: INFERNAL DEMON was doomed to fall
+[17:54:46] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14097, l='ServerLevel[world]', x=9916.89, y=150.00, z=9993.54] died: INFERNAL DEMON was doomed to fall
+[17:54:46] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14149, l='ServerLevel[world]', x=9914.04, y=150.00, z=9991.86] died: INFERNAL DEMON was doomed to fall
+[17:54:46] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14396, l='ServerLevel[world]', x=9914.12, y=150.00, z=9993.10] died: INFERNAL DEMON was doomed to fall
+[17:54:46] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14430, l='ServerLevel[world]', x=9913.69, y=150.00, z=9999.39] died: INFERNAL DEMON was doomed to fall
+[17:54:46] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14448, l='ServerLevel[world]', x=9910.30, y=150.00, z=9995.18] died: INFERNAL DEMON was doomed to fall
+[17:54:46] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14528, l='ServerLevel[world]', x=9911.59, y=150.00, z=9990.31] died: INFERNAL DEMON was doomed to fall
+[17:54:46] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14084, l='ServerLevel[world]', x=9912.52, y=150.00, z=9995.75] died: INFERNAL DEMON was doomed to fall
+[17:54:46] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14424, l='ServerLevel[world]', x=9911.21, y=150.00, z=9995.89] died: INFERNAL DEMON was doomed to fall
+[17:54:49] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /tp @e[type=minecraft:wither_skeleton] @s
+[17:54:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Teleported 11 entities to [ADMIN] ivelich350]
+[17:54:49] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14589, l='ServerLevel[world]', x=9917.26, y=155.20, z=9995.64] died: INFERNAL DEMON suffocated in a wall
+[17:54:49] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /tp @e[type=minecraft:wither_skeleton] @s
+[17:54:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Teleported 10 entities to [ADMIN] ivelich350]
+[17:54:49] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /tp @e[type=minecraft:wither_skeleton] @s
+[17:54:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Teleported 10 entities to [ADMIN] ivelich350]
+[17:54:50] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14425, l='ServerLevel[world]', x=9918.35, y=155.12, z=9994.65] died: INFERNAL DEMON suffocated in a wall
+[17:54:50] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14591, l='ServerLevel[world]', x=9919.53, y=155.00, z=9994.35] died: INFERNAL DEMON was doomed to fall
+[17:54:50] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14594, l='ServerLevel[world]', x=9919.59, y=155.00, z=9994.65] died: INFERNAL DEMON was doomed to fall
+[17:54:50] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /tp @e[type=minecraft:wither_skeleton] @s
+[17:54:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Teleported 7 entities to [ADMIN] ivelich350]
+[17:54:50] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14601, l='ServerLevel[world]', x=9918.87, y=155.12, z=9993.71] died: INFERNAL DEMON suffocated in a wall
+[17:54:50] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14432, l='ServerLevel[world]', x=9918.35, y=154.97, z=9993.35] died: INFERNAL DEMON suffocated in a wall
+[17:54:50] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14496, l='ServerLevel[world]', x=9918.35, y=154.97, z=9994.51] died: INFERNAL DEMON suffocated in a wall
+[17:54:50] [Server thread/ERROR] [Minecraft]: Could not pass event PlayerChangedWorldEvent to Permadeath v1.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[forge-1.20.1-47.2.21-universal.jar%23207!/:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[forge-1.20.1-47.2.21-universal.jar%23207!/:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:602) ~[forge-1.20.1-47.2.21-universal.jar%23207!/:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:586) ~[forge-1.20.1-47.2.21-universal.jar%23207!/:?]
+	at net.minecraft.server.players.PlayerList.m_11236_(PlayerList.java:719) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6272_(ServerGamePacketListenerImpl.java:2301) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.network.protocol.game.ServerboundClientCommandPacket.m_5797_(ServerboundClientCommandPacket.java:24) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.network.protocol.game.ServerboundClientCommandPacket.m_5797_(ServerboundClientCommandPacket.java:6) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:25) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1027) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:173) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:124) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:1010) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:1004) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:134) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:990) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:906) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "tech.sebazcrc.permadeath.data.EndDataManager.getConfig()" because "ma" is null
+	at tech.sebazcrc.permadeath.event.player.PlayerListener.createRegenZone(PlayerListener.java:839) ~[?:?]
+	at tech.sebazcrc.permadeath.event.player.PlayerListener.onWC(PlayerListener.java:812) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[forge-1.20.1-47.2.21-universal.jar%23207!/:?]
+	... 21 more
+[17:54:50] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /tp @e[type=minecraft:wither_skeleton] @s
+[17:54:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Teleported 4 entities to [ADMIN] ivelich350]
+[17:54:51] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /tp @e[type=minecraft:wither_skeleton] @s
+[17:54:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Teleported 4 entities to [ADMIN] ivelich350]
+[17:54:51] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14600, l='ServerLevel[world]', x=9918.67, y=155.00, z=9992.23] died: INFERNAL DEMON was doomed to fall
+[17:54:52] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14431, l='ServerLevel[world]', x=9917.24, y=150.00, z=9992.11] died: INFERNAL DEMON was doomed to fall
+[17:54:52] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14593, l='ServerLevel[world]', x=9920.21, y=155.00, z=9992.47] died: INFERNAL DEMON suffocated in a wall
+[17:54:52] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14429, l='ServerLevel[world]', x=9919.38, y=155.00, z=9992.27] died: INFERNAL DEMON suffocated in a wall
+[17:54:53] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /tp @e[type=minecraft:wither_skeleton]
+[17:54:58] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /tp ivelich350
+[17:54:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Teleported [ADMIN] Mr_PanckeisXD to [ADMIN] ivelich350]
+[17:55:03] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /tp Mr_PanckeisXD ivelich350
+[17:55:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Teleported [ADMIN] Mr_PanckeisXD to [ADMIN] ivelich350]
+[17:55:03] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode creative
+[17:55:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Creative Mode]
+[17:55:52] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /pdc reload
+[17:55:52] [Server thread/INFO] [Console]: [08/04/2024] 17:55:52 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+
+[17:55:52] [Server thread/INFO] [Console]: [08/04/2024] 17:55:52 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+
+[17:55:52] [Server thread/INFO] [Console]: [08/04/2024] 17:55:52 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+
+[17:56:35] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /effect give Mr_PanckeisXD minecraft:resistance infinite 200 true
+[17:56:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Applied effect Resistance to [ADMIN] Mr_PanckeisXD]
+[17:56:44] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode survival Mr_PanckeisXD
+[17:56:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set [ADMIN] Mr_PanckeisXD's game mode to Survival Mode]
+[17:56:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Set the weather to rain & thunder
+[17:56:45] [Server thread/INFO] [Console]: Mr_PanckeisXD ha muerto y ahora descanza en paz.
+[17:56:45] [Server thread/INFO] [Console]: Este es el comienzo del sufrimiento eterno de Mr_PanckeisXD. ¡HA SIDO GLITCHEADO!
+[17:56:45] [Server thread/INFO] [Console]: X: 9909 || Y: 152 || Z: 9992
+[17:56:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [ADMIN] Mr_PanckeisXD was slain by INFERNAL DEMON
+[17:56:50] [Server thread/INFO] [Console]: ¡Comienza el GLITCH Train con duración de 2 horas!
+[17:56:54] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /effect give Mr_PanckeisXD minecraft:resistance infinite 200 true
+[17:57:04] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /effect give Mr_PanckeisXD minecraft:health_boost infinite 99
+[17:57:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Applied effect Health Boost to [ADMIN] Mr_PanckeisXD]
+[17:57:12] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /effect give Mr_PanckeisXD minecraft:regeneration infinite 99
+[17:57:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Applied effect Regeneration to [ADMIN] Mr_PanckeisXD]
+[17:57:15] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /tp Mr_PanckeisXD ivelich350
+[17:57:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Teleported [ADMIN] Mr_PanckeisXD to [ADMIN] ivelich350]
+[17:57:20] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative Mr_PanckeisXD
+[17:57:20] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set [ADMIN] Mr_PanckeisXD's game mode to Creative Mode]
+[17:57:24] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14770, l='ServerLevel[world]', x=9907.04, y=150.00, z=9990.60] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:57:24] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14798, l='ServerLevel[world]', x=9906.42, y=150.00, z=9991.30] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:57:25] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14816, l='ServerLevel[world]', x=9905.58, y=150.00, z=9991.20] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:57:25] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14806, l='ServerLevel[world]', x=9905.47, y=150.00, z=9992.01] died: INFERNAL DEMON was slain by [ADMIN] ivelich350
+[17:57:26] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode spectator
+[17:57:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Spectator Mode]
+[17:57:27] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode creative
+[17:57:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set own game mode to Creative Mode]
+[18:00:14] [Server thread/ERROR] [Minecraft]: Could not pass event PlayerChangedWorldEvent to Permadeath v1.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[forge-1.20.1-47.2.21-universal.jar%23207!/:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[forge-1.20.1-47.2.21-universal.jar%23207!/:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:602) ~[forge-1.20.1-47.2.21-universal.jar%23207!/:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:586) ~[forge-1.20.1-47.2.21-universal.jar%23207!/:?]
+	at net.minecraft.server.players.PlayerList.m_11236_(PlayerList.java:719) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6272_(ServerGamePacketListenerImpl.java:2301) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.network.protocol.game.ServerboundClientCommandPacket.m_5797_(ServerboundClientCommandPacket.java:24) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.network.protocol.game.ServerboundClientCommandPacket.m_5797_(ServerboundClientCommandPacket.java:6) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:25) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1027) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:173) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:124) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:1010) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:1004) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:112) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:989) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:906) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "tech.sebazcrc.permadeath.data.EndDataManager.getConfig()" because "ma" is null
+	at tech.sebazcrc.permadeath.event.player.PlayerListener.createRegenZone(PlayerListener.java:839) ~[?:?]
+	at tech.sebazcrc.permadeath.event.player.PlayerListener.onWC(PlayerListener.java:812) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[forge-1.20.1-47.2.21-universal.jar%23207!/:?]
+	... 21 more
+[18:00:21] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /effect give Mr_PanckeisXD minecraft:resistance infinite 200 true
+[18:00:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Applied effect Resistance to [ADMIN] Mr_PanckeisXD]
+[18:00:27] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /tp Mr_PanckeisXD ivelich350
+[18:00:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Teleported [ADMIN] Mr_PanckeisXD to [ADMIN] ivelich350]
+[18:00:34] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /effect give Mr_PanckeisXD minecraft:resistance infinite 200 true
+[18:00:37] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /effect give Mr_PanckeisXD minecraft:regeneration infinite 99
+[18:00:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Applied effect Regeneration to [ADMIN] Mr_PanckeisXD]
+[18:00:43] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /effect give Mr_PanckeisXD minecraft:health_boost infinite 99
+[18:00:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Applied effect Health Boost to [ADMIN] Mr_PanckeisXD]
+[18:00:49] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode creative
+[18:00:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Creative Mode]
+[18:00:56] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /tp Mr_PanckeisXD ivelich350
+[18:00:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Teleported [ADMIN] Mr_PanckeisXD to [ADMIN] ivelich350]
+[18:01:01] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /effect give Mr_PanckeisXD minecraft:resistance infinite 200 true
+[18:01:04] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /effect give Mr_PanckeisXD minecraft:health_boost infinite 99
+[18:01:07] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /effect give Mr_PanckeisXD minecraft:regeneration infinite 99
+[18:01:11] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD lost connection: Disconnected
+[18:01:11] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client [ADMIN] Mr_PanckeisXD
+[18:01:11] [Server thread/INFO] [Console]: Mr_PanckeisXD ha abandonado el glitch.
+[18:01:27] [Server thread/INFO] [Console]: Mr_PanckeisXD se ha unido al glitch.
+[18:01:27] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: Mr_PanckeisXD[/127.0.0.1:44250] logged in with entity id 15133 at ([world]9912.498811568246, 150.54793256872824, 9997.939994058514)
+[18:01:28] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of [ADMIN] Mr_PanckeisXD (18)
+[18:01:28] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to [ADMIN] Mr_PanckeisXD
+[18:01:46] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /gamemode survival Mr_PanckeisXD
+[18:01:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Set [ADMIN] Mr_PanckeisXD's game mode to Survival Mode]
+[18:01:59] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /effect give Mr_PanckeisXD minecraft:regeneration infinite 200
+[18:01:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Applied effect Regeneration to [ADMIN] Mr_PanckeisXD]
+[18:02:13] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /tp Mr_PanckeisXD ivelich350
+[18:02:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Teleported [ADMIN] Mr_PanckeisXD to [ADMIN] ivelich350]
+[18:02:17] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /tp Mr_PanckeisXD ivelich350
+[18:02:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Teleported [ADMIN] Mr_PanckeisXD to [ADMIN] ivelich350]
+[18:02:21] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /tp Mr_PanckeisXD ivelich350
+[18:02:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Teleported [ADMIN] Mr_PanckeisXD to [ADMIN] ivelich350]
+[18:02:31] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 issued server command: /tp Mr_PanckeisXD ivelich350
+[18:02:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] ivelich350: Teleported [ADMIN] Mr_PanckeisXD to [ADMIN] ivelich350]
+[18:02:55] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14785, l='ServerLevel[world]', x=9904.96, y=150.00, z=9985.01] died: INFERNAL DEMON was squished too much
+[18:03:03] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: ivelich350 lost connection: Disconnected
+[18:03:03] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client [ADMIN] ivelich350
+[18:03:03] [Server thread/INFO] [Console]: ivelich350 ha abandonado el glitch.
+[18:03:33] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /kill @e[type=minecraft:wither_skeleton]
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14641, l='ServerLevel[world]', x=9904.35, y=150.00, z=9984.35] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14648, l='ServerLevel[world]', x=9906.98, y=150.00, z=9985.40] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14649, l='ServerLevel[world]', x=9903.98, y=150.00, z=9985.35] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14664, l='ServerLevel[world]', x=9902.82, y=154.50, z=9992.85] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14679, l='ServerLevel[world]', x=9903.35, y=150.00, z=9985.84] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14680, l='ServerLevel[world]', x=9904.39, y=150.00, z=9984.86] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14683, l='ServerLevel[world]', x=9904.35, y=150.00, z=9984.51] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14712, l='ServerLevel[world]', x=9904.56, y=150.00, z=9986.07] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14765, l='ServerLevel[world]', x=9903.35, y=150.00, z=9985.35] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14771, l='ServerLevel[world]', x=9904.76, y=150.00, z=9985.63] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14776, l='ServerLevel[world]', x=9902.35, y=150.00, z=9986.62] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14782, l='ServerLevel[world]', x=9907.50, y=150.00, z=9985.59] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14783, l='ServerLevel[world]', x=9906.00, y=150.00, z=9985.01] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14786, l='ServerLevel[world]', x=9904.20, y=150.00, z=9985.98] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14787, l='ServerLevel[world]', x=9905.21, y=150.00, z=9985.67] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14788, l='ServerLevel[world]', x=9904.24, y=150.00, z=9985.35] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14790, l='ServerLevel[world]', x=9905.78, y=150.00, z=9985.10] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14791, l='ServerLevel[world]', x=9904.35, y=150.00, z=9984.68] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14792, l='ServerLevel[world]', x=9905.35, y=150.00, z=9985.41] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14794, l='ServerLevel[world]', x=9904.35, y=150.00, z=9984.65] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14796, l='ServerLevel[world]', x=9905.03, y=150.00, z=9984.35] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14797, l='ServerLevel[world]', x=9906.35, y=150.00, z=9983.68] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14799, l='ServerLevel[world]', x=9905.21, y=150.00, z=9984.88] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14800, l='ServerLevel[world]', x=9904.99, y=150.00, z=9984.35] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14801, l='ServerLevel[world]', x=9906.87, y=150.00, z=9985.53] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14803, l='ServerLevel[world]', x=9905.18, y=150.00, z=9985.42] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14805, l='ServerLevel[world]', x=9904.22, y=150.00, z=9985.35] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14809, l='ServerLevel[world]', x=9904.99, y=150.00, z=9984.35] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14811, l='ServerLevel[world]', x=9903.35, y=150.00, z=9985.35] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14812, l='ServerLevel[world]', x=9907.30, y=150.00, z=9983.35] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14814, l='ServerLevel[world]', x=9904.69, y=150.00, z=9985.93] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14815, l='ServerLevel[world]', x=9904.44, y=150.00, z=9987.66] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14818, l='ServerLevel[world]', x=9905.48, y=150.00, z=9986.57] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14819, l='ServerLevel[world]', x=9904.95, y=150.00, z=9984.35] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14820, l='ServerLevel[world]', x=9903.49, y=150.00, z=9985.35] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14830, l='ServerLevel[world]', x=9904.83, y=150.00, z=9985.53] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14890, l='ServerLevel[world]', x=9906.28, y=150.00, z=9984.35] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14891, l='ServerLevel[world]', x=9905.84, y=150.00, z=9986.20] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14892, l='ServerLevel[world]', x=9903.98, y=150.00, z=9985.35] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14894, l='ServerLevel[world]', x=9904.35, y=150.00, z=9984.35] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14895, l='ServerLevel[world]', x=9905.50, y=150.00, z=9984.35] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14896, l='ServerLevel[world]', x=9904.07, y=150.00, z=9986.21] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14897, l='ServerLevel[world]', x=9905.55, y=150.00, z=9984.35] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14898, l='ServerLevel[world]', x=9905.16, y=150.00, z=9985.18] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14899, l='ServerLevel[world]', x=9904.35, y=150.00, z=9984.35] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/14900, l='ServerLevel[world]', x=9906.04, y=150.00, z=9985.53] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15045, l='ServerLevel[world]', x=9905.43, y=150.00, z=9986.04] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15156, l='ServerLevel[world]', x=9904.43, y=150.00, z=9986.60] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15161, l='ServerLevel[world]', x=9905.77, y=150.00, z=9987.79] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15189, l='ServerLevel[world]', x=9903.85, y=150.00, z=9986.46] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15190, l='ServerLevel[world]', x=9904.91, y=150.00, z=9984.35] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15196, l='ServerLevel[world]', x=9904.35, y=150.00, z=9984.35] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15197, l='ServerLevel[world]', x=9903.59, y=150.00, z=9987.60] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15198, l='ServerLevel[world]', x=9903.35, y=150.00, z=9985.35] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15203, l='ServerLevel[world]', x=9906.62, y=150.00, z=9986.77] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15204, l='ServerLevel[world]', x=9905.94, y=150.00, z=9984.35] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15207, l='ServerLevel[world]', x=9905.72, y=150.00, z=9987.15] died: INFERNAL DEMON was killed
+[18:03:33] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Killed 57 entities]
+[18:03:37] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /kill @e[type=minecraft:wither_skeleton]
+[18:03:37] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15282, l='ServerLevel[world]', x=9909.89, y=150.00, z=9989.55] died: INFERNAL DEMON was killed
+[18:03:37] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15283, l='ServerLevel[world]', x=9910.65, y=150.92, z=9990.34] died: INFERNAL DEMON was killed
+[18:03:37] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15287, l='ServerLevel[world]', x=9910.41, y=150.23, z=9984.24] died: INFERNAL DEMON was killed
+[18:03:37] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15288, l='ServerLevel[world]', x=9910.91, y=151.00, z=9985.54] died: INFERNAL DEMON was killed
+[18:03:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Killed 4 entities]
+[18:03:40] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode spectator
+[18:03:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Spectator Mode]
+[18:03:41] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /gamemode creative
+[18:03:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Set own game mode to Creative Mode]
+[18:05:16] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /kill @e[type=minecraft:wither_skeleton]
+[18:05:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15397, l='ServerLevel[world]', x=9915.82, y=150.00, z=9990.61] died: INFERNAL DEMON was killed
+[18:05:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15407, l='ServerLevel[world]', x=9912.35, y=150.00, z=9996.56] died: INFERNAL DEMON was killed
+[18:05:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15408, l='ServerLevel[world]', x=9906.71, y=150.00, z=9990.90] died: INFERNAL DEMON was killed
+[18:05:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15424, l='ServerLevel[world]', x=9902.89, y=154.50, z=9992.85] died: INFERNAL DEMON was killed
+[18:05:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15425, l='ServerLevel[world]', x=9911.31, y=150.00, z=9997.81] died: INFERNAL DEMON was killed
+[18:05:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15451, l='ServerLevel[world]', x=9902.69, y=154.00, z=9993.61] died: INFERNAL DEMON was killed
+[18:05:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15452, l='ServerLevel[world]', x=9902.48, y=150.00, z=9988.87] died: INFERNAL DEMON was killed
+[18:05:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15453, l='ServerLevel[world]', x=9909.28, y=151.00, z=10000.69] died: INFERNAL DEMON was killed
+[18:05:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15454, l='ServerLevel[world]', x=9908.74, y=151.18, z=9998.65] died: INFERNAL DEMON was killed
+[18:05:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15461, l='ServerLevel[world]', x=9904.73, y=150.00, z=9991.48] died: INFERNAL DEMON was killed
+[18:05:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15469, l='ServerLevel[world]', x=9910.60, y=150.00, z=9997.10] died: INFERNAL DEMON was killed
+[18:05:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15470, l='ServerLevel[world]', x=9906.78, y=150.00, z=9985.61] died: INFERNAL DEMON was killed
+[18:05:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15474, l='ServerLevel[world]', x=9915.58, y=150.00, z=9992.59] died: INFERNAL DEMON was killed
+[18:05:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15504, l='ServerLevel[world]', x=9908.90, y=152.00, z=9999.62] died: INFERNAL DEMON was killed
+[18:05:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15510, l='ServerLevel[world]', x=9901.32, y=152.00, z=9995.53] died: INFERNAL DEMON was killed
+[18:05:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15517, l='ServerLevel[world]', x=9903.54, y=150.00, z=9996.86] died: INFERNAL DEMON was killed
+[18:05:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15518, l='ServerLevel[world]', x=9910.43, y=150.00, z=9998.56] died: INFERNAL DEMON was killed
+[18:05:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15528, l='ServerLevel[world]', x=9901.78, y=150.00, z=9987.50] died: INFERNAL DEMON was killed
+[18:05:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15529, l='ServerLevel[world]', x=9908.66, y=150.00, z=9987.59] died: INFERNAL DEMON was killed
+[18:05:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15532, l='ServerLevel[world]', x=9914.65, y=150.00, z=9984.78] died: INFERNAL DEMON was killed
+[18:05:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15533, l='ServerLevel[world]', x=9908.34, y=150.00, z=9991.38] died: INFERNAL DEMON was killed
+[18:05:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15534, l='ServerLevel[world]', x=9908.58, y=150.00, z=9993.36] died: INFERNAL DEMON was killed
+[18:05:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15539, l='ServerLevel[world]', x=9903.14, y=150.00, z=9989.54] died: INFERNAL DEMON was killed
+[18:05:16] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15544, l='ServerLevel[world]', x=9903.02, y=150.00, z=9989.00] died: INFERNAL DEMON was killed
+[18:05:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Killed 24 entities]
+[18:05:47] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /kill @e[type=minecraft:wither_skeleton]
+[18:05:47] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15596, l='ServerLevel[world]', x=9897.92, y=128.00, z=10007.60] died: INFERNAL DEMON was killed
+[18:05:47] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15620, l='ServerLevel[world]', x=9912.08, y=150.00, z=9995.27] died: INFERNAL DEMON was killed
+[18:05:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Killed 2 entities]
+[18:05:50] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD issued server command: /kill @e[type=minecraft:wither_skeleton]
+[18:05:50] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity]: Named entity WitherSkeleton['INFERNAL DEMON'/15627, l='ServerLevel[world]', x=9905.00, y=150.00, z=9989.80] died: INFERNAL DEMON was killed
+[18:05:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [[ADMIN] Mr_PanckeisXD: Killed INFERNAL DEMON]
+[18:07:30] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Mr_PanckeisXD lost connection: Disconnected
+[18:07:30] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client [ADMIN] Mr_PanckeisXD
+[18:07:30] [Server thread/INFO] [Console]: Mr_PanckeisXD ha abandonado el glitch.
+[18:07:33] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer]: Caught previously unhandled exception :
+java.io.IOError: java.io.IOException: Input/output error
+	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:170) ~[jline-reader-3.21.0.jar%23108!/:?]
+	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:110) ~[jline-reader-3.21.0.jar%23108!/:?]
+	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:61) ~[jline-reader-3.21.0.jar%23108!/:?]
+	at org.jline.reader.impl.LineReaderImpl.doReadBinding(LineReaderImpl.java:923) ~[jline-reader-3.21.0.jar%23108!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readBinding(LineReaderImpl.java:956) ~[jline-reader-3.21.0.jar%23108!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:651) ~[jline-reader-3.21.0.jar%23108!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:468) ~[jline-reader-3.21.0.jar%23108!/:?]
+	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge-1.20.1-47.2.21-universal.jar%23207!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:93) ~[server-1.20.1-20230612.114412-srg.jar%23202!/:?]
+Caused by: java.io.IOException: Input/output error
+	at java.io.FileInputStream.read0(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:231) ~[?:?]
+	at org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:73) ~[jline-terminal-3.21.0.jar%23109!/:?]
+	at org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62) ~[jline-terminal-3.21.0.jar%23109!/:?]
+	at org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:168) ~[jline-terminal-3.21.0.jar%23109!/:?]
+	at org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57) ~[jline-terminal-3.21.0.jar%23109!/:?]
+	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:160) ~[jline-reader-3.21.0.jar%23108!/:?]
+	... 8 more
+[18:07:33] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:07:33] [Server thread/INFO] [Console]: ------------------------------------------
+[18:07:33] [Server thread/INFO] [Console]:              PERMADEATH
+[18:07:33] [Server thread/INFO] [Console]:      - Desactivando el Plugin.
+[18:07:33] [Server thread/INFO] [Console]: ------------------------------------------
+[18:07:34] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[18:07:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:07:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:07:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:07:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:08:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:08:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:08:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:08:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:08:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: ThreadedAnvilChunkStorage: All dimensions are saved

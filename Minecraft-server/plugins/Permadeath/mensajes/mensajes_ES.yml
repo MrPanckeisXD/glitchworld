@@ -1,0 +1,15 @@
+Server-Messages:
+  coords-msg-enable: true
+  OnJoin: '&e%player% se ha unido al glitch.'
+  OnLeave: '&e%player% ha abandonado el glitch.'
+  StormEnd: '&6La tormenta glitcheada ha llegado a su fin.'
+  Sleep: '&7%player% &efue a descansar.'
+  Sleeping: '&7%player% &eestá descansando &e(&b%players%&7/&b%needed%&e)'
+  DeathMessageTitle: '&e¡GlitchDead!'
+  DeathMessageSubtitle: '%player% ha sido glitcheado'
+  DeathMessageChat: '&e&lEste es el comienzo del sufrimiento eterno de &6&l%player%&6&l.
+    ¡HA SIDO GLITCHEADO!'
+  DeathTrainMessage: '&6¡Comienza el GLITCH Train con duración de %tiempo% horas!'
+  DeathTrainMessageMinutes: '&6¡Comienza el GLITCH Train con duración de %tiempo%
+    minutos!'
+  ActionBarMessage: '&7Quedan %tiempo% de tormenta glitcheada'

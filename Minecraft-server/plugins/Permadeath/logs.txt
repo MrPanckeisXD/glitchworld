@@ -1,0 +1,153 @@
+[06/04/2024] 01:47:05 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[06/04/2024] 01:47:05 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[06/04/2024] 01:47:05 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[06/04/2024] 01:47:05 Se ha activado el plugin.
+[06/04/2024] 01:59:32 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[06/04/2024] 01:59:32 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[06/04/2024] 01:59:32 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[06/04/2024] 01:59:32 Se ha activado el plugin.
+[06/04/2024] 02:06:29 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[06/04/2024] 02:06:29 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[06/04/2024] 02:06:29 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[06/04/2024] 02:06:29 Se ha activado el plugin.
+[06/04/2024] 02:20:06 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[06/04/2024] 02:20:06 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[06/04/2024] 02:20:06 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[06/04/2024] 02:20:07 Se ha activado el plugin.
+[06/04/2024] 02:24:42 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[06/04/2024] 02:24:42 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[06/04/2024] 02:24:42 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[06/04/2024] 02:24:42 Se ha activado el plugin.
+[06/04/2024] 02:29:40 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[06/04/2024] 02:29:40 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[06/04/2024] 02:29:40 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[06/04/2024] 02:29:41 Se ha activado el plugin.
+[06/04/2024] 02:34:54 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[06/04/2024] 02:34:54 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[06/04/2024] 02:34:54 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[06/04/2024] 02:34:54 Se ha activado el plugin.
+[06/04/2024] 02:48:44 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[06/04/2024] 02:48:44 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[06/04/2024] 02:48:44 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[06/04/2024] 02:48:45 Se ha activado el plugin.
+[06/04/2024] 02:56:08 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[06/04/2024] 02:56:08 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[06/04/2024] 02:56:08 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[06/04/2024] 02:56:08 Se ha activado el plugin.
+[06/04/2024] 03:07:18 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[06/04/2024] 03:07:18 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[06/04/2024] 03:07:18 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[06/04/2024] 03:07:19 Se ha activado el plugin.
+[06/04/2024] 03:18:15 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[06/04/2024] 03:18:15 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[06/04/2024] 03:18:15 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[06/04/2024] 03:18:15 Se ha activado el plugin.
+[06/04/2024] 03:28:51 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[06/04/2024] 03:28:51 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[06/04/2024] 03:28:51 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[06/04/2024] 03:28:51 Se ha activado el plugin.
+[06/04/2024] 04:02:11 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[06/04/2024] 04:02:11 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[06/04/2024] 04:02:11 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[06/04/2024] 04:02:11 Se ha activado el plugin.
+[06/04/2024] 13:49:30 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[06/04/2024] 13:49:30 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[06/04/2024] 13:49:30 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[06/04/2024] 13:49:31 Se ha activado el plugin.
+[06/04/2024] 20:45:16 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[06/04/2024] 20:45:16 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[06/04/2024] 20:45:16 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[06/04/2024] 20:45:16 Se ha activado el plugin.
+[06/04/2024] 20:56:00 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[06/04/2024] 20:56:00 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[06/04/2024] 20:56:00 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[06/04/2024] 20:56:00 Se ha activado el plugin.
+[06/04/2024] 22:48:43 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[06/04/2024] 22:48:43 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[06/04/2024] 22:48:43 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[06/04/2024] 22:48:44 Se ha activado el plugin.
+[07/04/2024] 00:46:01 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[07/04/2024] 00:46:01 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[07/04/2024] 00:46:01 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[07/04/2024] 00:46:02 Se ha activado el plugin.
+[07/04/2024] 01:26:43 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[07/04/2024] 01:26:43 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[07/04/2024] 01:26:43 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[07/04/2024] 01:26:43 Se ha activado el plugin.
+[07/04/2024] 02:03:35 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[07/04/2024] 02:03:35 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[07/04/2024] 02:03:35 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[07/04/2024] 02:03:35 Se ha activado el plugin.
+[07/04/2024] 04:13:29 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[07/04/2024] 04:13:29 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[07/04/2024] 04:13:29 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[07/04/2024] 04:13:29 Se ha activado el plugin.
+[07/04/2024] 04:15:34 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[07/04/2024] 04:15:34 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[07/04/2024] 04:15:34 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[07/04/2024] 04:15:34 Se ha activado el plugin.
+[07/04/2024] 04:25:00 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[07/04/2024] 04:25:00 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[07/04/2024] 04:25:00 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[07/04/2024] 04:25:00 Se ha activado el plugin.
+[07/04/2024] 15:44:41 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[07/04/2024] 15:44:41 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[07/04/2024] 15:44:41 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[07/04/2024] 15:44:42 Se ha activado el plugin.
+[07/04/2024] 17:28:59 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[07/04/2024] 17:28:59 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[07/04/2024] 17:28:59 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[07/04/2024] 17:28:59 Se ha activado el plugin.
+[07/04/2024] 17:32:16 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[07/04/2024] 17:32:16 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[07/04/2024] 17:32:16 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[07/04/2024] 17:32:16 Se ha activado el plugin.
+[07/04/2024] 19:05:56 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[07/04/2024] 19:05:56 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[07/04/2024] 19:05:56 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[07/04/2024] 19:05:56 Se ha activado el plugin.
+[07/04/2024] 19:11:46 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[07/04/2024] 19:11:46 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[07/04/2024] 19:11:46 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[07/04/2024] 19:11:47 Se ha activado el plugin.
+[07/04/2024] 20:31:51 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[07/04/2024] 20:31:51 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[07/04/2024] 20:31:51 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[07/04/2024] 20:31:51 Se ha activado el plugin.
+[07/04/2024] 20:33:14 Día cambiado a: 1
+[07/04/2024] 20:33:14 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[07/04/2024] 20:33:14 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[07/04/2024] 20:33:14 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[07/04/2024] 20:33:14 Se ha recargado el plugin
+[07/04/2024] 23:14:14 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[07/04/2024] 23:14:14 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[07/04/2024] 23:14:14 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[07/04/2024] 23:14:14 Se ha activado el plugin.
+[07/04/2024] 23:27:24 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[07/04/2024] 23:27:24 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[07/04/2024] 23:27:24 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[07/04/2024] 23:27:25 Se ha activado el plugin.
+[08/04/2024] 01:46:21 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[08/04/2024] 01:46:22 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[08/04/2024] 01:46:22 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[08/04/2024] 01:46:22 Se ha activado el plugin.
+[08/04/2024] 02:41:01 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[08/04/2024] 02:41:01 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[08/04/2024] 02:41:01 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[08/04/2024] 02:41:02 Se ha activado el plugin.
+[08/04/2024] 15:13:13 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[08/04/2024] 15:13:13 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[08/04/2024] 15:13:13 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[08/04/2024] 15:13:13 Se ha activado el plugin.
+[08/04/2024] 16:03:46 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[08/04/2024] 16:03:46 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[08/04/2024] 16:03:46 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[08/04/2024] 16:03:46 Se ha activado el plugin.
+[08/04/2024] 16:57:04 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[08/04/2024] 16:57:04 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[08/04/2024] 16:57:04 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[08/04/2024] 16:57:04 Se ha activado el plugin.
+[08/04/2024] 17:55:52 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[08/04/2024] 17:55:52 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[08/04/2024] 17:55:52 [INFO] El plugin utilizará el mundo DIM1 como mundo del End.
+[08/04/2024] 17:55:52 Se ha recargado el plugin

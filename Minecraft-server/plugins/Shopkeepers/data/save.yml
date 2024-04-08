@@ -1,0 +1,816 @@
+# This file is not intended to be manually modified! If you want to manually edit this file anyways, ensure that the server is not running currently and that you have prepared a backup of this file.
+
+data-version: 3|2|3465
+'1':
+  uniqueId: 8ad53647-6ed9-4f13-83b3-c9dbf36c1b8f
+  world: world
+  x: -5
+  y: 104
+  z: -10
+  yaw: 90.0
+  type: admin
+  name: Comida
+  object:
+    type: villager
+    baby: false
+    profession: BUTCHER
+    villagerType: TAIGA
+    villagerLevel: 2
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: APPLE
+        amount: 16
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_NUGGET
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☁ ᴍɪɴɪ ɢʟɪᴛᴄʜᴄᴏɪɴ ☁"}'
+          enchants:
+            MENDING: 10
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: SWEET_BERRIES
+        amount: 16
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_NUGGET
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☁ ᴍɪɴɪ ɢʟɪᴛᴄʜᴄᴏɪɴ ☁"}'
+          enchants:
+            MENDING: 10
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: BREAD
+        amount: 40
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_NUGGET
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☁ ᴍɪɴɪ ɢʟɪᴛᴄʜᴄᴏɪɴ ☁"}'
+          enchants:
+            MENDING: 10
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: COOKED_BEEF
+        amount: 16
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_NUGGET
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☁ ᴍɪɴɪ ɢʟɪᴛᴄʜᴄᴏɪɴ ☁"}'
+          enchants:
+            MENDING: 10
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLDEN_CARROT
+        amount: 16
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_NUGGET
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☁ ᴍɪɴɪ ɢʟɪᴛᴄʜᴄᴏɪɴ ☁"}'
+          enchants:
+            MENDING: 10
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLDEN_APPLE
+        amount: 16
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_NUGGET
+        amount: 40
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☁ ᴍɪɴɪ ɢʟɪᴛᴄʜᴄᴏɪɴ ☁"}'
+          enchants:
+            MENDING: 10
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLDEN_CARROT
+        amount: 16
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"★ ɢʟɪᴛᴄʜᴄᴏɪɴ ★"}'
+          enchants:
+            MENDING: 10
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: COOKED_BEEF
+        amount: 16
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"★ ɢʟɪᴛᴄʜᴄᴏɪɴ ★"}'
+          enchants:
+            MENDING: 10
+    '9':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLDEN_APPLE
+        amount: 16
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_INGOT
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"★ ɢʟɪᴛᴄʜᴄᴏɪɴ ★"}'
+          enchants:
+            MENDING: 10
+    '10':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLDEN_APPLE
+        amount: 16
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DIAMOND
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☀ ꜱᴜᴘᴇʀ ɢʟɪᴛᴄʜᴄᴏɪɴ ☀"}'
+          enchants:
+            MENDING: 10
+  snapshots: []
+'2':
+  uniqueId: 9eb38656-8a0f-4af3-bffa-2e3a29cdcd4f
+  world: world
+  x: -6
+  y: 104
+  z: -4
+  yaw: 265.9484
+  type: admin
+  name: Banco
+  object:
+    type: evoker
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DIAMOND
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☀ ꜱᴜᴘᴇʀ ɢʟɪᴛᴄʜᴄᴏɪɴ ☀"}'
+          enchants:
+            MENDING: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_BLOCK
+        amount: 28
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DIAMOND_BLOCK
+        amount: 30
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_INGOT
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"★ ɢʟɪᴛᴄʜᴄᴏɪɴ ★"}'
+          enchants:
+            MENDING: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_BLOCK
+        amount: 12
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_BLOCK
+        amount: 28
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_NUGGET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☁ ᴍɪɴɪ ɢʟɪᴛᴄʜᴄᴏɪɴ ☁"}'
+          enchants:
+            MENDING: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_BLOCK
+        amount: 4
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_INGOT
+        amount: 25
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DIAMOND
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☀ ꜱᴜᴘᴇʀ ɢʟɪᴛᴄʜᴄᴏɪɴ ☀"}'
+          enchants:
+            MENDING: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_INGOT
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"★ ɢʟɪᴛᴄʜᴄᴏɪɴ ★"}'
+          enchants:
+            MENDING: 10
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"★ ɢʟɪᴛᴄʜᴄᴏɪɴ ★"}'
+          enchants:
+            MENDING: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_NUGGET
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☁ ᴍɪɴɪ ɢʟɪᴛᴄʜᴄᴏɪɴ ☁"}'
+          enchants:
+            MENDING: 10
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DIAMOND
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☀ ꜱᴜᴘᴇʀ ɢʟɪᴛᴄʜᴄᴏɪɴ ☀"}'
+          enchants:
+            MENDING: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_NUGGET
+        amount: 40
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☁ ᴍɪɴɪ ɢʟɪᴛᴄʜᴄᴏɪɴ ☁"}'
+          enchants:
+            MENDING: 10
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_NUGGET
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☁ ᴍɪɴɪ ɢʟɪᴛᴄʜᴄᴏɪɴ ☁"}'
+          enchants:
+            MENDING: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"★ ɢʟɪᴛᴄʜᴄᴏɪɴ ★"}'
+          enchants:
+            MENDING: 10
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_NUGGET
+        amount: 40
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☁ ᴍɪɴɪ ɢʟɪᴛᴄʜᴄᴏɪɴ ☁"}'
+          enchants:
+            MENDING: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DIAMOND
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☀ ꜱᴜᴘᴇʀ ɢʟɪᴛᴄʜᴄᴏɪɴ ☀"}'
+          enchants:
+            MENDING: 10
+  snapshots: []
+'3':
+  uniqueId: c99abb83-e08a-45d6-9b05-add847baa40a
+  world: world
+  x: -5
+  y: 104
+  z: 2
+  yaw: 285.80597
+  type: admin
+  name: Herramientas Y Armas
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 4
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: SHIELD
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_NUGGET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☁ ᴍɪɴɪ ɢʟɪᴛᴄʜᴄᴏɪɴ ☁"}'
+          enchants:
+            MENDING: 10
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DIAMOND_SWORD
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_NUGGET
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☁ ᴍɪɴɪ ɢʟɪᴛᴄʜᴄᴏɪɴ ☁"}'
+          enchants:
+            MENDING: 10
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DIAMOND_PICKAXE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_NUGGET
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☁ ᴍɪɴɪ ɢʟɪᴛᴄʜᴄᴏɪɴ ☁"}'
+          enchants:
+            MENDING: 10
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DIAMOND_AXE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_NUGGET
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☁ ᴍɪɴɪ ɢʟɪᴛᴄʜᴄᴏɪɴ ☁"}'
+          enchants:
+            MENDING: 10
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: BOW
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_NUGGET
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☁ ᴍɪɴɪ ɢʟɪᴛᴄʜᴄᴏɪɴ ☁"}'
+          enchants:
+            MENDING: 10
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ARROW
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_NUGGET
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☁ ᴍɪɴɪ ɢʟɪᴛᴄʜᴄᴏɪɴ ☁"}'
+          enchants:
+            MENDING: 10
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: SPECTRAL_ARROW
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_NUGGET
+        amount: 40
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☁ ᴍɪɴɪ ɢʟɪᴛᴄʜᴄᴏɪɴ ☁"}'
+          enchants:
+            MENDING: 10
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ARROW
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"★ ɢʟɪᴛᴄʜᴄᴏɪɴ ★"}'
+          enchants:
+            MENDING: 10
+    '9':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: SPECTRAL_ARROW
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DIAMOND
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☀ ꜱᴜᴘᴇʀ ɢʟɪᴛᴄʜᴄᴏɪɴ ☀"}'
+          enchants:
+            MENDING: 10
+  snapshots: []
+'4':
+  uniqueId: e4051417-0883-4f00-a2da-166297dd2c29
+  world: world
+  x: -5
+  y: 104
+  z: 8
+  yaw: 68.26695
+  type: admin
+  name: Pociones y mas
+  object:
+    type: blaze
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:long_night_vision
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_NUGGET
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☁ ᴍɪɴɪ ɢʟɪᴛᴄʜᴄᴏɪɴ ☁"}'
+          enchants:
+            MENDING: 10
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_strength
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_NUGGET
+        amount: 22
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☁ ᴍɪɴɪ ɢʟɪᴛᴄʜᴄᴏɪɴ ☁"}'
+          enchants:
+            MENDING: 10
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_healing
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_NUGGET
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☁ ᴍɪɴɪ ɢʟɪᴛᴄʜᴄᴏɪɴ ☁"}'
+          enchants:
+            MENDING: 10
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: alexsmobs:speed_iii
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_NUGGET
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☁ ᴍɪɴɪ ɢʟɪᴛᴄʜᴄᴏɪɴ ☁"}'
+          enchants:
+            MENDING: 10
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_strength
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"★ ɢʟɪᴛᴄʜᴄᴏɪɴ ★"}'
+          enchants:
+            MENDING: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_NUGGET
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☁ ᴍɪɴɪ ɢʟɪᴛᴄʜᴄᴏɪɴ ☁"}'
+          enchants:
+            MENDING: 10
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_healing
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"★ ɢʟɪᴛᴄʜᴄᴏɪɴ ★"}'
+          enchants:
+            MENDING: 10
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            MENDING: 1
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_INGOT
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"★ ɢʟɪᴛᴄʜᴄᴏɪɴ ★"}'
+          enchants:
+            MENDING: 10
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            DURABILITY: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_INGOT
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"★ ɢʟɪᴛᴄʜᴄᴏɪɴ ★"}'
+          enchants:
+            MENDING: 10
+    '9':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            DIG_SPEED: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"★ ɢʟɪᴛᴄʜᴄᴏɪɴ ★"}'
+          enchants:
+            MENDING: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_NUGGET
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☁ ᴍɪɴɪ ɢʟɪᴛᴄʜᴄᴏɪɴ ☁"}'
+          enchants:
+            MENDING: 10
+    '10':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            DAMAGE_ALL: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_INGOT
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"★ ɢʟɪᴛᴄʜᴄᴏɪɴ ★"}'
+          enchants:
+            MENDING: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_NUGGET
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☁ ᴍɪɴɪ ɢʟɪᴛᴄʜᴄᴏɪɴ ☁"}'
+          enchants:
+            MENDING: 10
+    '11':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_INGOT
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"★ ɢʟɪᴛᴄʜᴄᴏɪɴ ★"}'
+          enchants:
+            MENDING: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_NUGGET
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"☁ ᴍɪɴɪ ɢʟɪᴛᴄʜᴄᴏɪɴ ☁"}'
+          enchants:
+            MENDING: 10
+  snapshots: []
